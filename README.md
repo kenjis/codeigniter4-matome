@@ -40,6 +40,9 @@
 
 ## コントローラ
 
+### ルーティング
+- [CodeIgniter4でDB接続まで - Qiita](https://qiita.com/kohenji01/items/ced458da42ce70e067f8)
+
 ### REST API
 - [CodeIgniter4でREST APIを作成する](http://blog.a-way-out.net/blog/2020/12/20/codeigniter4-rest-api/)
 
@@ -74,6 +77,9 @@
 - [Codeigniter3で使っていたアレをCodeigniter4で使う - Qiita](https://qiita.com/bananacoffee/items/6bb631391c2301d28c73)
 - [Migrating CI3 to CI4, need query->numRows function](
   https://forum.codeigniter.com/thread-78294.html)
+
+## デバッグ
+- [PhpStormとXdebug3でCodeIgniter4をステップ実行する](http://blog.a-way-out.net/blog/2020/12/24/step-debugging-codeigniter4-with-phpstorm-and-xdebug3/)
 
 ## ライブラリ
 
