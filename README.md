@@ -1,4 +1,4 @@
-# Codeigniter4 まとめ
+# CodeIgniter4 まとめ
 
 ## 最近の動向
 - [CodeIgniter v4.0.4 released](https://forum.codeigniter.com/thread-77054.html)
