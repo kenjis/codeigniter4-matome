@@ -99,6 +99,9 @@
 - [benedmunds/CodeIgniter-Ion-Auth at 4](
   https://github.com/benedmunds/CodeIgniter-Ion-Auth/tree/4)
 
+### JavaScript/CSS
+- [michalsn/minifier: Asset minification and versioning library for CodeIgniter 4](https://github.com/michalsn/minifier)
+
 ## アプリケーション
 
 - [samsonasik/ci4-album: 🔥 CodeIgniter 4 example Album module uses Domain Driven Design Architecture with Tactical Pattern](https://github.com/samsonasik/ci4-album)
