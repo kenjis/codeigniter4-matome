@@ -18,6 +18,7 @@
 ## コミュニティ
 - 本家フォーラム http://forum.codeigniter.com/
 - 本家 Slack https://codeigniterchat.slack.com/
+- Stack Overflow https://stackoverflow.com/questions/tagged/codeigniter-4
 - 日本 CodeIgniter ユーザ会 http://codeigniter.jp/
 
 ## 脆弱性情報
