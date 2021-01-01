@@ -34,6 +34,7 @@
 - [CodeIgniter 4.0を開発版にアップデートする](
   http://blog.a-way-out.net/blog/2020/12/30/update-codeigniter-404/)
 - [CodeIgniter4をインストール (Composer利用) - Qiita](https://qiita.com/kohenji01/items/a36dbbbb19bb8808d104)
+- [1つのCodeigniterで複数サイト（例：フロントと管理画面）を運用する - Qiita](https://qiita.com/bananacoffee/items/ca7784ebe0d2d5a320d1)
 
 ## チュートリアル
 - [CodeIgniter4の公式チュートリアルをやってみる](http://blog.a-way-out.net/blog/2020/12/01/codeigniter4-tutorial-1/)
