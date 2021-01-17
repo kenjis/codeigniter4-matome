@@ -87,8 +87,10 @@
 
 ## CodeIgniter3 からの移行
 - [Codeigniter3で使っていたアレをCodeigniter4で使う - Qiita](https://qiita.com/bananacoffee/items/6bb631391c2301d28c73)
-- [Migrating CI3 to CI4, need query->numRows function](
+- $query->num_rows()
+  - [Migrating CI3 to CI4, need query->numRows function](
   https://forum.codeigniter.com/thread-78294.html)
+  - [adds BaseResult::getNumRows(). adds getNumRows to various DBMS Result classes by sneakyimp · Pull Request #4049 · codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/pull/4049)
 
 ## デバッグ
 - [PhpStormとXdebug3でCodeIgniter4をステップ実行する](http://blog.a-way-out.net/blog/2020/12/24/step-debugging-codeigniter4-with-phpstorm-and-xdebug3/)
