@@ -1,6 +1,7 @@
 # CodeIgniter4 まとめ
 
 ## 最近の動向
+- [GitHub ActionにPHP8のテストが追加され通りました](https://github.com/codeigniter4/CodeIgniter4/pull/4012)
 - [CodeIgniter v4.0.4 released](https://forum.codeigniter.com/thread-77054.html)
 
 ## 本家
