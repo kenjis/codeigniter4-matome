@@ -25,6 +25,10 @@
 ## 脆弱性情報
 - n/a
 
+## 問題
+- 環境変数名にドットが使えない環境がある
+  - https://github.com/codeigniter4/CodeIgniter4/issues/4026
+
 ## 開発環境の構築
 
 ### Docker
