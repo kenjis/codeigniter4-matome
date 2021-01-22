@@ -114,6 +114,7 @@
 - [Integrate Google ReCaptcha v3 in CodeIgniter 4](http://denis303.com/blog/1-integrate-google-recaptcha-v3-in-codeigniter4)
   - https://forum.codeigniter.com/thread-75779.html
   - https://github.com/denis303/codeigniter4-recaptcha
+- [gregwar/captcha - Packagist](https://packagist.org/packages/gregwar/captcha)
 - [laminas/laminas-captcha - Packagist](https://packagist.org/packages/laminas/laminas-captcha)
 
 ## アプリケーション
