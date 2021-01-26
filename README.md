@@ -62,6 +62,7 @@
 
 ### データベース
 - [getCompiledSelect の罠、 useSoftDelete が抜け落ちる - Qiita](https://qiita.com/bananacoffee/items/0aff3f5cd005a5f1bfc6)
+- [Databaseクラスを拡張する方法](https://forum.codeigniter.com/thread-78294-post-383813.html#pid383813)
 
 #### データベースマイグレーション
 - [CodeIgniter4のデータベースマイグレーション](http://blog.a-way-out.net/blog/2020/12/12/codeigniter4-database-migrations/)
