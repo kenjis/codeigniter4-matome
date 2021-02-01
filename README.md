@@ -85,6 +85,9 @@
 
 ## テスト
 
+### PHPUnit
+- [$this->getDouble()を使いたい](https://github.com/kenjis/phpunit-helper)
+
 ### フィーチャーテスト
 - [CodeIgniter4のフィーチャーテスト](http://blog.a-way-out.net/blog/2020/12/14/codeigniter4-feature-testing/)
 
