@@ -1,7 +1,9 @@
 # CodeIgniter4 まとめ
 
 ## 最近の動向
-- [GitHub ActionにPHP8のテストが追加され通りました](https://github.com/codeigniter4/CodeIgniter4/pull/4012)
+- [CodeIgniter v4.0.5 and v4.1.0 released](https://forum.codeigniter.com/thread-78507.html)
+  - 4.0.5 は PHP 7.2 をサポートする最後のバージョン
+  - 4.1.0 は PHP 7.3 以上が必要
 - [CodeIgniter v4.0.4 released](https://forum.codeigniter.com/thread-77054.html)
 
 ## 本家
