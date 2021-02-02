@@ -118,6 +118,7 @@
 - [michalsn/minifier: Asset minification and versioning library for CodeIgniter 4](https://github.com/michalsn/minifier)
 
 ### Captcha
+- [kenjis/ci3-like-captcha - Packagist](https://packagist.org/packages/kenjis/ci3-like-captcha)
 - [Integrate Google ReCaptcha v3 in CodeIgniter 4](http://denis303.com/blog/1-integrate-google-recaptcha-v3-in-codeigniter4)
   - https://forum.codeigniter.com/thread-75779.html
   - https://github.com/denis303/codeigniter4-recaptcha
