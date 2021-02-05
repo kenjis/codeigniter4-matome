@@ -114,6 +114,12 @@
 - [benedmunds/CodeIgniter-Ion-Auth at 4](
   https://github.com/benedmunds/CodeIgniter-Ion-Auth/tree/4)
 
+### データベース
+- [daycry/doctrine: Doctrine for Codeigniter 4](https://github.com/daycry/doctrine)
+
+### REST
+- [daycry/restserver: Rest Server for Codeigniter 4](https://github.com/daycry/restserver)
+
 ### JavaScript/CSS
 - [michalsn/minifier: Asset minification and versioning library for CodeIgniter 4](https://github.com/michalsn/minifier)
 
