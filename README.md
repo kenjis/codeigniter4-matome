@@ -109,6 +109,7 @@
 - [lonnieezell/myth-auth: One-stop Auth package for CodeIgniter 4](https://github.com/lonnieezell/myth-auth)
 - [benedmunds/CodeIgniter-Ion-Auth at 4](
   https://github.com/benedmunds/CodeIgniter-Ion-Auth/tree/4)
+- [agungsugiarto/codeigniter4-authentication](https://github.com/agungsugiarto/codeigniter4-authentication)
 
 ### データベース
 - [tattersoftware/codeigniter4-relations: Entity relationships for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-relations)
