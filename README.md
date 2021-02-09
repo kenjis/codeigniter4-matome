@@ -114,6 +114,7 @@
 - [tattersoftware/codeigniter4-relations: Entity relationships for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-relations)
 - [4spacesdk/CI4OrmExtension: OrmExtension for CodeIgniter 4](https://github.com/4spacesdk/CI4OrmExtension)
 - [daycry/doctrine: Doctrine for Codeigniter 4](https://github.com/daycry/doctrine)
+- [agungsugiarto/codeigniter4-eloquent: The Illuminate Database package for CodeIgniter 4](https://github.com/agungsugiarto/codeigniter4-eloquent)
 
 ### REST
 - [daycry/restserver: Rest Server for Codeigniter 4](https://github.com/daycry/restserver)
