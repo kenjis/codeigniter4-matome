@@ -109,8 +109,6 @@
 
 #### データベースマイグレーション
 - [CodeIgniter4のデータベースマイグレーション](http://blog.a-way-out.net/blog/2020/12/12/codeigniter4-database-migrations/)
-- [Bug: can't run migrations when CI_ENVIRONMENT = testing · Issue #4033 · codeigniter4/CodeIgniter4](
-  https://github.com/codeigniter4/CodeIgniter4/issues/4033)
 
 #### データベースシーディング
 - [CodeIgniter4のデータベースシーダー](http://blog.a-way-out.net/blog/2020/12/13/codeigniter4-database-seeder/)
