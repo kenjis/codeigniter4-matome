@@ -41,7 +41,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
-- [CodeIgniter v4.0.5 and v4.1.0 released](https://forum.codeigniter.com/thread-78507.html)
+- [CodeIgniter 4.0.5と4.1.1がリリースされました](http://blog.a-way-out.net/blog/2021/02/02/codeigniter-405-and-411-released/)
   - 4.0.5 は PHP 7.2 をサポートする最後のバージョン
   - 4.1.0 は PHP 7.3 以上が必要
 - [CodeIgniter v4.0.4 released](https://forum.codeigniter.com/thread-77054.html)
