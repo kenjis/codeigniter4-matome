@@ -28,6 +28,7 @@
 - [CLI コマンド](#cli-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89)
 - [CodeIgniter3 からの移行](#codeigniter3-%E3%81%8B%E3%82%89%E3%81%AE%E7%A7%BB%E8%A1%8C)
 - [デバッグ](#%E3%83%87%E3%83%90%E3%83%83%E3%82%B0)
+- [フレームワーク内部](#%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E5%86%85%E9%83%A8)
 - [ライブラリ](#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA)
   - [認証](#%E8%AA%8D%E8%A8%BC)
   - [データベース](#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9-1)
@@ -68,6 +69,7 @@
 - n/a
 
 ## 問題
+- [getCompiledSelect の罠、 useSoftDelete が抜け落ちる - Qiita](https://qiita.com/bananacoffee/items/0aff3f5cd005a5f1bfc6)
 - 環境変数名にドットが使えない環境がある
   - https://github.com/codeigniter4/CodeIgniter4/issues/4026
 
@@ -138,11 +140,15 @@
 - [CodeIgniter4でCLIコマンドを作成する](http://blog.a-way-out.net/blog/2020/12/18/create-codeigniter4-cli-commands/)
 
 ## CodeIgniter3 からの移行
+- [CodeIgniter 3.1と4.1の違い](http://blog.a-way-out.net/blog/2021/02/22/differences-between-codeigniter31-and-41/)
 - [Codeigniter3で使っていたアレをCodeigniter4で使う - Qiita](https://qiita.com/bananacoffee/items/6bb631391c2301d28c73)
 - [kenjis/ci3-to-4-upgrade-helper: CodeIgniter 3 to 4 Upgrade Helper](https://github.com/kenjis/ci3-to-4-upgrade-helper)
 
 ## デバッグ
 - [PhpStormとXdebug3でCodeIgniter4をステップ実行する](http://blog.a-way-out.net/blog/2020/12/24/step-debugging-codeigniter4-with-phpstorm-and-xdebug3/)
+
+## フレームワーク内部
+- [CodeIgniter 4.1の処理の流れ](http://blog.a-way-out.net/blog/2021/02/19/codeigniter41-process-flow/)
 
 ## ライブラリ
 
@@ -173,6 +179,7 @@
 - [laminas/laminas-captcha - Packagist](https://packagist.org/packages/laminas/laminas-captcha)
 
 ## アプリケーション
+- [『CodeIgniter徹底入門』のサンプルアプリケーション （CodeIgniter v4.1版） ](https://github.com/kenjis/ci4-tettei-apps)
 - [samsonasik/ci4-album: 🔥 CodeIgniter 4 example Album module uses Domain Driven Design Architecture with Tactical Pattern](https://github.com/samsonasik/ci4-album)
 
 ## 書籍
