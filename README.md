@@ -61,6 +61,8 @@
 - リリース版 https://codeigniter4.github.io/userguide/
 - 開発版 https://codeigniter4.github.io/CodeIgniter4/
 
+※ 最新の英語の開発版を（必要なら翻訳して）参照することを推奨します。ググると日本語のユーザーガイドがヒットするかも知れませんが、古いものほど原文に誤りや不備が多いため注意してください。
+
 ## コミュニティ
 - 本家フォーラム http://forum.codeigniter.com/
 - 本家 Slack https://codeigniterchat.slack.com/
