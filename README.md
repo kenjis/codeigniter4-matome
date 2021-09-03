@@ -18,7 +18,7 @@
   - [ルーティング](#%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)
   - [REST API](#rest-api)
 - [モデル](#%E3%83%A2%E3%83%87%E3%83%AB)
-  - [CodeIgniter\Model](#codeigniter%5Cmodel)
+  - [CodeIgniter Model](#codeigniter-model)
   - [データベース](#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9)
 - [ビュー](#%E3%83%93%E3%83%A5%E3%83%BC)
   - [テンプレートエンジン](#%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3)
@@ -112,7 +112,7 @@
 
 ## モデル
 
-### CodeIgniter\Model
+### CodeIgniter Model
 - [CodeIgniter4のModelまわり | BITTER GOURD](https://ittan-dev.net/php/codeigniter4-models-try/)
 - [CodeIgniter4のModelの基礎 - Qiita](https://qiita.com/kohenji01/items/b3e947623309d478e02b)
 - [CodeIgniter ModelはQuery Builderを直接呼べるのでわかりづらい](https://forum.codeigniter.com/thread-75871-post-373699.html#pid373699)
