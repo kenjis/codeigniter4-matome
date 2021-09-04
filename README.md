@@ -76,6 +76,9 @@
 - n/a
 
 ## 問題
+- [データベースセッションのバグ](https://github.com/codeigniter4/CodeIgniter4/issues/4807)
+  - v4.1.2〜
+  - 4.2 ブランチで修正済み https://github.com/codeigniter4/CodeIgniter4/pull/4876
 - [getCompiledSelect の罠、 useSoftDelete が抜け落ちる - Qiita](https://qiita.com/bananacoffee/items/0aff3f5cd005a5f1bfc6)
 - 環境変数名にドットが使えない環境がある
   - https://github.com/codeigniter4/CodeIgniter4/issues/4026
