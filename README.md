@@ -173,6 +173,10 @@
 
 ## ライブラリ
 
+### 公式
+- [codeigniter4/settings: Settings Library for CodeIgniter 4](https://github.com/codeigniter4/settings)
+- [codeigniter4/cache: PSR-6 and PSR-16 Cache Adapters for CodeIgniter 4](https://github.com/codeigniter4/cache)
+
 ### 認証
 - [lonnieezell/myth-auth: One-stop Auth package for CodeIgniter 4](https://github.com/lonnieezell/myth-auth)
 - [benedmunds/CodeIgniter-Ion-Auth at 4](
