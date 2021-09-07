@@ -120,6 +120,7 @@
 - [CodeIgniter4のModelの基礎 - Qiita](https://qiita.com/kohenji01/items/b3e947623309d478e02b)
 - [CodeIgniter ModelはQuery Builderを直接呼べるのでわかりづらい](https://forum.codeigniter.com/thread-75871-post-373699.html#pid373699)
 - [getCompiledSelect の罠、 useSoftDelete が抜け落ちる - Qiita](https://qiita.com/bananacoffee/items/0aff3f5cd005a5f1bfc6)
+- [tattersoftware/codeigniter4-relations: Entity relationships for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-relations)
 
 ### データベース
 - [CodeIgniter4 のクエリビルダ `$builder->selectXXX()` は第2引数にAS句を指定できる - Qiita](https://qiita.com/bananacoffee/items/d5fe9ecb2679e4f9f236)
@@ -178,7 +179,6 @@
 - [agungsugiarto/codeigniter4-authentication](https://github.com/agungsugiarto/codeigniter4-authentication)
 
 ### データベース
-- [tattersoftware/codeigniter4-relations: Entity relationships for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-relations)
 - [4spacesdk/CI4OrmExtension: OrmExtension for CodeIgniter 4](https://github.com/4spacesdk/CI4OrmExtension)
 - [daycry/doctrine: Doctrine for Codeigniter 4](https://github.com/daycry/doctrine)
 - [agungsugiarto/codeigniter4-eloquent: The Illuminate Database package for CodeIgniter 4](https://github.com/agungsugiarto/codeigniter4-eloquent)
