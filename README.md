@@ -43,7 +43,8 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
-- `develop`ブランチはコーディングスタイルの変更に、それ以外のPRは`4.2`ブランチへ
+- [CodeIgniter v4.1.4 released](https://forum.codeigniter.com/thread-80045-post-389804.html)
+  - PSR-12 ベースの [新しいコーディング標準](https://github.com/CodeIgniter/coding-standard) への変更
 - [CodeIgniter v4.1.3 released](https://forum.codeigniter.com/thread-79373.html)
 - [CodeIgniter v4.1.2 released](https://forum.codeigniter.com/thread-79249.html)
 - [CodeIgniter 4.0.5と4.1.1がリリースされました](http://blog.a-way-out.net/blog/2021/02/02/codeigniter-405-and-411-released/)
