@@ -78,6 +78,10 @@
 - n/a
 
 ## 問題
+- Redis セッションのバグ
+  - v4.1.4
+  - `develop` ブランチで修正済み
+    - https://github.com/codeigniter4/CodeIgniter4/pull/5062
 - [データベースセッションのバグ](https://github.com/codeigniter4/CodeIgniter4/issues/4807)
   - v4.1.2〜v4.1.4
   - `develop` ブランチで修正済み
