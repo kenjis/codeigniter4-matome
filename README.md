@@ -133,6 +133,7 @@
 ### データベース
 - [CodeIgniter4 のクエリビルダ `$builder->selectXXX()` は第2引数にAS句を指定できる - Qiita](https://qiita.com/bananacoffee/items/d5fe9ecb2679e4f9f236)
 - [Databaseクラスを拡張する方法](https://forum.codeigniter.com/thread-78294-post-383813.html#pid383813)
+- [SQL文をQuery Builderに変換するサービス: SQL To Codeigniter Builder](https://sql-to-ci-builder.herokuapp.com/)
 
 #### データベースマイグレーション
 - [CodeIgniter4のデータベースマイグレーション](http://blog.a-way-out.net/blog/2020/12/12/codeigniter4-database-migrations/)
