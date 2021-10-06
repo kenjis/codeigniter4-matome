@@ -89,7 +89,10 @@
     - https://github.com/codeigniter4/CodeIgniter4/pull/5060
 - [getCompiledSelect の罠、 useSoftDelete が抜け落ちる - Qiita](https://qiita.com/bananacoffee/items/0aff3f5cd005a5f1bfc6)
 - 環境変数名にドットが使えない環境がある
-  - https://github.com/codeigniter4/CodeIgniter4/issues/4026
+  - 〜v4.1.4
+  - `develop` ブランチで対応済み
+    - https://github.com/codeigniter4/CodeIgniter4/pull/5156
+    - https://github.com/codeigniter4/CodeIgniter4/issues/4026
 
 ## 開発環境の構築
 
