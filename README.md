@@ -115,6 +115,10 @@
 - [CodeIgniter4の公式チュートリアルをやってみる](http://blog.a-way-out.net/blog/2020/12/01/codeigniter4-tutorial-1/)
 - [Learn CodeIgniter](https://learncodeigniter.net/)
 - [CodeIgniter 4 Tutorials - Best Place to Learn CodeIgniter 4](https://onlinewebtutorblog.com/category/codeigniter-4/)
+- 多言語化
+  - Creating a multilingual website with CodeIgniter 4 
+    - https://includebeer.com/en/blog/creating-a-multilingual-website-with-codeigniter-4-part-1
+    - https://includebeer.com/en/blog/creating-a-multilingual-website-with-codeigniter-4-part-2
 
 ## コントローラ
 
