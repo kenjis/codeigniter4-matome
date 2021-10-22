@@ -35,6 +35,7 @@
   - [公式](#%E5%85%AC%E5%BC%8F)
   - [認証](#%E8%AA%8D%E8%A8%BC)
   - [データベース](#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9-1)
+  - [ロギング](#%E3%83%AD%E3%82%AE%E3%83%B3%E3%82%B0)
   - [REST](#rest)
   - [JavaScript/CSS](#javascriptcss)
   - [Captcha](#captcha)
@@ -206,6 +207,9 @@ https://github.com/lonnieezell/codeigniter-shield)
 - [4spacesdk/CI4OrmExtension: OrmExtension for CodeIgniter 4](https://github.com/4spacesdk/CI4OrmExtension)
 - [daycry/doctrine: Doctrine for Codeigniter 4](https://github.com/daycry/doctrine)
 - [agungsugiarto/codeigniter4-eloquent: The Illuminate Database package for CodeIgniter 4](https://github.com/agungsugiarto/codeigniter4-eloquent)
+
+### ロギング
+- [ajmeireles/ci4-sentry: Sentry Integration with CodeIgniter 4](https://github.com/ajmeireles/ci4-sentry)
 
 ### REST
 - [daycry/restserver: Rest Server for Codeigniter 4](https://github.com/daycry/restserver)
