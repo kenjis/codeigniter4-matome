@@ -216,6 +216,7 @@ https://github.com/lonnieezell/codeigniter-shield)
 
 ### JavaScript/CSS
 - [michalsn/minifier: Asset minification and versioning library for CodeIgniter 4](https://github.com/michalsn/minifier)
+- [tattersoftware/codeigniter4-assets: Asset handling for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-assets)
 
 ### Captcha
 - [kenjis/ci3-like-captcha - Packagist](https://packagist.org/packages/kenjis/ci3-like-captcha)
