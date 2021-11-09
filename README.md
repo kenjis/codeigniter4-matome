@@ -46,6 +46,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2021-11-08 [CodeIgniter v4.1.5 released](https://forum.codeigniter.com/thread-80494.html)
 - 2021-09-07 [CodeIgniter v4.1.4 released](https://forum.codeigniter.com/thread-80045-post-389804.html)
   - PSR-12 ベースの [新しいコーディング標準](https://github.com/CodeIgniter/coding-standard) への変更
 - 2021-06-06 [CodeIgniter v4.1.3 released](https://forum.codeigniter.com/thread-79373.html)
@@ -82,17 +83,17 @@
 ## 問題
 - Redis セッションのバグ
   - v4.1.4
-  - `develop` ブランチで修正済み
+  - v4.1.5 で修正済み
     - https://github.com/codeigniter4/CodeIgniter4/pull/5062
 - [データベースセッションのバグ](https://github.com/codeigniter4/CodeIgniter4/issues/4807)
   - v4.1.2〜v4.1.4
-  - `develop` ブランチで修正済み
+  - v4.1.5 で修正済み
     - https://github.com/codeigniter4/CodeIgniter4/pull/4876
     - https://github.com/codeigniter4/CodeIgniter4/pull/5060
 - [getCompiledSelect の罠、 useSoftDelete が抜け落ちる - Qiita](https://qiita.com/bananacoffee/items/0aff3f5cd005a5f1bfc6)
 - 環境変数名にドットが使えない環境がある
   - 〜v4.1.4
-  - `develop` ブランチで対応済み
+  - v4.1.5 で修正済み
     - https://github.com/codeigniter4/CodeIgniter4/pull/5156
     - https://github.com/codeigniter4/CodeIgniter4/issues/4026
 
