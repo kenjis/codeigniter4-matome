@@ -81,6 +81,7 @@
 - n/a
 
 ## 問題
+- [getCompiledSelect の罠、 useSoftDelete が抜け落ちる - Qiita](https://qiita.com/bananacoffee/items/0aff3f5cd005a5f1bfc6)
 - Redis セッションのバグ
   - v4.1.4
   - v4.1.5 で修正済み
@@ -90,10 +91,9 @@
   - v4.1.5 で修正済み
     - https://github.com/codeigniter4/CodeIgniter4/pull/4876
     - https://github.com/codeigniter4/CodeIgniter4/pull/5060
-- [getCompiledSelect の罠、 useSoftDelete が抜け落ちる - Qiita](https://qiita.com/bananacoffee/items/0aff3f5cd005a5f1bfc6)
 - 環境変数名にドットが使えない環境がある
   - 〜v4.1.4
-  - v4.1.5 で修正済み
+  - v4.1.5 で対応済み
     - https://github.com/codeigniter4/CodeIgniter4/pull/5156
     - https://github.com/codeigniter4/CodeIgniter4/issues/4026
 
