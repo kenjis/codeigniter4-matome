@@ -12,6 +12,7 @@
 - [開発環境の構築](#%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E6%A7%8B%E7%AF%89)
   - [Docker](#docker)
   - [ツール](#%E3%83%84%E3%83%BC%E3%83%AB)
+  - [IDE](#ide)
 - [インストール](#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
   - [アプリケーションテンプレート](#%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88)
 - [チュートリアル](#%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB)
@@ -106,6 +107,10 @@
 ### ツール
 - [tattersoftware/codeigniter4-patches: Automated project updates for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-patches)
 - [paulbalandan/liaison-revision: Seamless software updates library for CodeIgniter4 projects.](https://github.com/paulbalandan/liaison-revision)
+
+### IDE
+- [PhpStorm](https://www.jetbrains.com/ja-jp/phpstorm/)
+- [Codeigniter Plugins for Visual Studio Code](https://marketplace.visualstudio.com/search?term=codeigniter&target=VSCode&category=All%20categories&sortBy=Relevance)
 
 ## インストール
 - [CodeIgniter 4.0のインストール方法【2020年最新版】](http://blog.a-way-out.net/blog/2020/12/29/how-to-install-codeigniter-404/)
