@@ -110,7 +110,7 @@
 
 ### IDE
 - [PhpStorm](https://www.jetbrains.com/ja-jp/phpstorm/)
-- [Codeigniter Plugins for Visual Studio Code](https://marketplace.visualstudio.com/search?term=codeigniter&target=VSCode&category=All%20categories&sortBy=Relevance)
+- [CodeIgniter Plugins for Visual Studio Code](https://marketplace.visualstudio.com/search?term=codeigniter&target=VSCode&category=All%20categories&sortBy=Relevance)
 
 ## インストール
 - [CodeIgniter 4.0のインストール方法【2020年最新版】](http://blog.a-way-out.net/blog/2020/12/29/how-to-install-codeigniter-404/)
