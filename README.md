@@ -178,8 +178,7 @@
 - [$this->getDouble()を使いたい](https://github.com/kenjis/phpunit-helper)
 
 ### モック
-
-- [tattersoftware/codeigniter4-imposter: Mock authentication for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-imposter)
+- [認証をモックしたい](https://github.com/tattersoftware/codeigniter4-imposter)
 
 ### フィーチャーテスト
 - [CodeIgniter4のフィーチャーテスト](http://blog.a-way-out.net/blog/2020/12/14/codeigniter4-feature-testing/)
