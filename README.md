@@ -149,6 +149,7 @@
 - [getCompiledSelect の罠、 useSoftDelete が抜け落ちる - Qiita](https://qiita.com/bananacoffee/items/0aff3f5cd005a5f1bfc6)
 - [tattersoftware/codeigniter4-relations: Entity relationships for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-relations)
 - [tattersoftware/codeigniter4-roster: Bulk name lookup for database relations](https://github.com/tattersoftware/codeigniter4-roster)
+- [tattersoftware/codeigniter4-permits: Dynamic permission handling for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-permits)
 
 ### データベース
 - [CodeIgniter4 のクエリビルダ `$builder->selectXXX()` は第2引数にAS句を指定できる - Qiita](https://qiita.com/bananacoffee/items/d5fe9ecb2679e4f9f236)
