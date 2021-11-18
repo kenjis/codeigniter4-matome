@@ -147,6 +147,7 @@
 - [CodeIgniter4のModelまわり | BITTER GOURD](https://ittan-dev.net/php/codeigniter4-models-try/)
 - [CodeIgniter4のModelの基礎 - Qiita](https://qiita.com/kohenji01/items/b3e947623309d478e02b)
 - [CodeIgniter ModelはQuery Builderを直接呼べるのでわかりづらい](https://forum.codeigniter.com/thread-75871-post-373699.html#pid373699)
+- [CodeIgniter 4 Models vs Query Builder - Learn CodeIgniter](https://learncodeigniter.net/codeigniter-tutorials/codeigniter-4-models-vs-query-builder/)
 - [getCompiledSelect の罠、 useSoftDelete が抜け落ちる - Qiita](https://qiita.com/bananacoffee/items/0aff3f5cd005a5f1bfc6)
 - [tattersoftware/codeigniter4-relations: Entity relationships for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-relations)
 - [tattersoftware/codeigniter4-roster: Bulk name lookup for database relations](https://github.com/tattersoftware/codeigniter4-roster)
