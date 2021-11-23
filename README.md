@@ -49,6 +49,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2021-11-23 CodeIgniter 4 Settings [v2.1.0](https://github.com/codeigniter4/settings/releases/tag/v2.1.0) リリース
 - 2021-11-08 [CodeIgniter v4.1.5 released](https://forum.codeigniter.com/thread-80494.html)
 - 2021-09-07 [CodeIgniter v4.1.4 released](https://forum.codeigniter.com/thread-80045-post-389804.html)
   - PSR-12 ベースの [新しいコーディング標準](https://github.com/CodeIgniter/coding-standard) への変更
