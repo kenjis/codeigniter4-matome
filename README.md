@@ -222,9 +222,9 @@
 - [lonnieezell/codeigniter-shield: Authentication and Authorization for CodeIgniter 4](
 https://github.com/lonnieezell/codeigniter-shield)
 - [lonnieezell/myth-auth: One-stop Auth package for CodeIgniter 4](https://github.com/lonnieezell/myth-auth)
+- [agungsugiarto/codeigniter4-authentication](https://github.com/agungsugiarto/codeigniter4-authentication)
 - [benedmunds/CodeIgniter-Ion-Auth at 4](
   https://github.com/benedmunds/CodeIgniter-Ion-Auth/tree/4)
-- [agungsugiarto/codeigniter4-authentication](https://github.com/agungsugiarto/codeigniter4-authentication)
 
 ### データベース
 - [4spacesdk/CI4OrmExtension: OrmExtension for CodeIgniter 4](https://github.com/4spacesdk/CI4OrmExtension)
