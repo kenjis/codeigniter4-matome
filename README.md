@@ -119,7 +119,7 @@
 - [SDPM-lab/Codeigniter4-Roadrunner: Make Codeigniter4 work on Roadrunner Server.](https://github.com/SDPM-lab/Codeigniter4-Roadrunner)
 
 ## インストール
-- [CodeIgniter 4.0のインストール方法【2020年最新版】](http://blog.a-way-out.net/blog/2020/12/29/how-to-install-codeigniter-404/)
+- [CodeIgniter 4.1のインストール方法【2021年最新版】](https://zenn.dev/kenjis/articles/9a68c7fdbd5aaa)
 - [CodeIgniter 4.0を開発版にアップデートする](
   http://blog.a-way-out.net/blog/2020/12/30/update-codeigniter-404/)
 - [CodeIgniter4をインストール (Composer利用) - Qiita](https://qiita.com/kohenji01/items/a36dbbbb19bb8808d104)
@@ -196,7 +196,7 @@
 - [CodeIgniter4でCLIコマンドを作成する](http://blog.a-way-out.net/blog/2020/12/18/create-codeigniter4-cli-commands/)
 
 ## CodeIgniter3 からの移行
-- [CodeIgniter 3.1と4.1の違い](http://blog.a-way-out.net/blog/2021/02/22/differences-between-codeigniter31-and-41/)
+- [CodeIgniter 3.1と4.1の違い](https://zenn.dev/kenjis/articles/cc1c76ebc2a15b)
 - [Codeigniter3で使っていたアレをCodeigniter4で使う - Qiita](https://qiita.com/bananacoffee/items/6bb631391c2301d28c73)
 - [kenjis/ci3-to-4-upgrade-helper: CodeIgniter 3 to 4 Upgrade Helper](https://github.com/kenjis/ci3-to-4-upgrade-helper)
 
