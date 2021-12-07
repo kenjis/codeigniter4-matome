@@ -131,7 +131,7 @@
 - [lonnieezell/Bonfire2: CodeIgniter 4-based application skeleton](https://github.com/lonnieezell/Bonfire2)
 
 ## チュートリアル
-- [CodeIgniter4の公式チュートリアルをやってみる](http://blog.a-way-out.net/blog/2020/12/01/codeigniter4-tutorial-1/)
+- [CodeIgniter4入門 公式チュートリアル](https://zenn.dev/kenjis/articles/3d5e42f872ff18)
 - [Learn CodeIgniter](https://learncodeigniter.net/)
 - [CodeIgniter 4 Tutorials - Best Place to Learn CodeIgniter 4](https://onlinewebtutorblog.com/category/codeigniter-4/)
 - 多言語化
