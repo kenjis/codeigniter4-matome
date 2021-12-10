@@ -142,7 +142,7 @@
 ## コントローラ
 
 ### ルーティング
-- [CodeIgniter4でDB接続まで - Qiita](https://qiita.com/kohenji01/items/ced458da42ce70e067f8)
+- [CodeIgniter4のルーティング](https://zenn.dev/kenjis/articles/139208ac5e38c9)
 
 ### REST API
 - [CodeIgniter4でREST APIを作成する](http://blog.a-way-out.net/blog/2020/12/20/codeigniter4-rest-api/)
