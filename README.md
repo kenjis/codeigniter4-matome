@@ -143,6 +143,7 @@
 
 ### ルーティング
 - [CodeIgniter4のルーティング](https://zenn.dev/kenjis/articles/139208ac5e38c9)
+- [本当は危ないCodeIgniter4の自動ルーティング](https://zenn.dev/kenjis/articles/5a1487b85a0ad9)
 
 ### REST API
 - [CodeIgniter4でREST APIを作成する](http://blog.a-way-out.net/blog/2020/12/20/codeigniter4-rest-api/)
