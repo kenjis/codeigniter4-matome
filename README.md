@@ -223,11 +223,11 @@
 - [codeigniter4/cache: PSR-6 and PSR-16 Cache Adapters for CodeIgniter 4](https://github.com/codeigniter4/cache)
 
 ### 認証
-- [lonnieezell/codeigniter-shield: Authentication and Authorization for CodeIgniter 4](
-https://github.com/lonnieezell/codeigniter-shield)
 - [lonnieezell/myth-auth: One-stop Auth package for CodeIgniter 4](https://github.com/lonnieezell/myth-auth)
   - [CodeIgniter4の認証ライブラリMyth Authを使う](https://zenn.dev/kenjis/articles/95f38b7e447155)
 - [benedmunds/CodeIgniter-Ion-Auth at 4](https://github.com/benedmunds/CodeIgniter-Ion-Auth/tree/4)
+- [lonnieezell/codeigniter-shield: Authentication and Authorization for CodeIgniter 4](
+  https://github.com/lonnieezell/codeigniter-shield)
 
 ### データベース
 - [4spacesdk/CI4OrmExtension: OrmExtension for CodeIgniter 4](https://github.com/4spacesdk/CI4OrmExtension)
