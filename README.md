@@ -232,7 +232,6 @@ https://github.com/lonnieezell/codeigniter-shield)
 ### データベース
 - [4spacesdk/CI4OrmExtension: OrmExtension for CodeIgniter 4](https://github.com/4spacesdk/CI4OrmExtension)
 - [daycry/doctrine: Doctrine for Codeigniter 4](https://github.com/daycry/doctrine)
-- [agungsugiarto/codeigniter4-eloquent: The Illuminate Database package for CodeIgniter 4](https://github.com/agungsugiarto/codeigniter4-eloquent)
 
 ### ロギング
 - [ajmeireles/ci4-sentry: Sentry Integration with CodeIgniter 4](https://github.com/ajmeireles/ci4-sentry)
