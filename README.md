@@ -233,6 +233,7 @@
 ### データベース
 - [4spacesdk/CI4OrmExtension: OrmExtension for CodeIgniter 4](https://github.com/4spacesdk/CI4OrmExtension)
 - [daycry/doctrine: Doctrine for Codeigniter 4](https://github.com/daycry/doctrine)
+- [Illuminate Database Wrapper for CodeIgniter 4](https://github.com/nfaiz/dbtoolkit)
 
 ### ロギング
 - [ajmeireles/ci4-sentry: Sentry Integration with CodeIgniter 4](https://github.com/ajmeireles/ci4-sentry)
