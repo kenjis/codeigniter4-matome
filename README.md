@@ -132,6 +132,7 @@
 
 ## チュートリアル
 - [CodeIgniter4入門 公式チュートリアル](https://zenn.dev/kenjis/articles/3d5e42f872ff18)
+- [CodeIgniter 4 最速マスター](https://zenn.dev/kenjis/articles/811ee63e3fec59)
 - [Learn CodeIgniter](https://learncodeigniter.net/)
 - [CodeIgniter 4 Tutorials - Best Place to Learn CodeIgniter 4](https://onlinewebtutorblog.com/category/codeigniter-4/)
 - 多言語化
@@ -207,6 +208,8 @@
 - [kenjis/ci3-to-4-upgrade-helper: CodeIgniter 3 to 4 Upgrade Helper](https://github.com/kenjis/ci3-to-4-upgrade-helper)
 
 ## デバッグ
+- [CodeIgniter4でdd()を使う](https://zenn.dev/kenjis/articles/8a3e763d518db0)
+- [CodeIgniter4でChrome Loggerを使う](https://zenn.dev/kenjis/articles/66d29306dd91a6)
 - [PhpStormとXdebug3でCodeIgniter4をステップ実行する](http://blog.a-way-out.net/blog/2020/12/24/step-debugging-codeigniter4-with-phpstorm-and-xdebug3/)
 - [The checklist of things to check when your CodeIgniter 4 web application is not working](https://includebeer.com/en/blog/the-checklist-of-things-to-check-when-your-codeigniter-4-web-application-is-not-working)
 
