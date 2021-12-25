@@ -215,6 +215,7 @@
 - [The checklist of things to check when your CodeIgniter 4 web application is not working](https://includebeer.com/en/blog/the-checklist-of-things-to-check-when-your-codeigniter-4-web-application-is-not-working)
 
 ## フレームワーク内部
+- [CodeIgniter4のアプリケーションフローチャート](https://zenn.dev/kenjis/articles/c8a19f61d62f24)
 - [CodeIgniter 4.1の処理の流れ](http://blog.a-way-out.net/blog/2021/02/19/codeigniter41-process-flow/)
 
 ## フレームワークの拡張
