@@ -11,7 +11,7 @@
 - [問題](#%E5%95%8F%E9%A1%8C)
 - [開発環境の構築](#%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E6%A7%8B%E7%AF%89)
   - [Docker](#docker)
-  - [ツール](#%E3%83%84%E3%83%BC%E3%83%AB)
+  - [アップデートツール](#%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%83%84%E3%83%BC%E3%83%AB)
   - [IDE](#ide)
   - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
 - [インストール](#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
@@ -108,7 +108,7 @@
 - [codeigniter4-dockerでCodeIgniter4の開発環境を作成してみる](http://blog.a-way-out.net/blog/2020/12/08/codeigniter4-docker/)
 - [kenjis/docker-codeigniter-apache: Build a simple CodeIgniter development environment with docker-compose.](https://github.com/kenjis/docker-codeigniter-apache)
 
-### ツール
+### アップデートツール
 - [tattersoftware/codeigniter4-patches: Automated project updates for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-patches)
 - [paulbalandan/liaison-revision: Seamless software updates library for CodeIgniter4 projects.](https://github.com/paulbalandan/liaison-revision)
 
