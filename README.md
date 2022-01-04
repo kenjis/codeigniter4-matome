@@ -50,6 +50,7 @@
 
 ## 最近の動向
 - 2022-01-04 [CodeIgniter v4.1.6 released](https://forum.codeigniter.com/thread-80926.html)
+  - PHP 8.1 をサポート
   - 脆弱性情報 [Deserialization of Untrusted Data in Codeigniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-w6jr-wj64-mc9x)
 - 2021-11-23 CodeIgniter 4 Settings [v2.1.0](https://github.com/codeigniter4/settings/releases/tag/v2.1.0) リリース
 - 2021-11-08 [CodeIgniter v4.1.5 released](https://forum.codeigniter.com/thread-80494.html)
