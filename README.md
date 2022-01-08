@@ -92,7 +92,7 @@
 
 ## 問題
 - v4.1.6
-  - [Bug: ErrorException: Undefined index: file: SYSTEMPATH\Debug\Toolbar\Collectors\Database.php at line 142 #5539](https://github.com/codeigniter4/CodeIgniter4/issues/5539)
+  - [Bug: ErrorException: Undefined index: file: SYSTEMPATH\Debug\Toolbar\Collectors\Database.php at line 142 #5539](https://github.com/codeigniter4/CodeIgniter4/issues/5539) ... `develop` で修正済み
   - [Bug: Debug bar javascript issue with external script toggle #5541](https://github.com/codeigniter4/CodeIgniter4/issues/5541) ... `develop` で修正済み
   - [Bug: BaseConnection::getConnectDuration() number_format(): Passing null to parameter #5535](https://github.com/codeigniter4/CodeIgniter4/issues/5535) ... `develop` で修正済み
 - [getCompiledSelect の罠、 useSoftDelete が抜け落ちる - Qiita](https://qiita.com/bananacoffee/items/0aff3f5cd005a5f1bfc6)
