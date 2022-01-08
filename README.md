@@ -75,6 +75,7 @@
 ## 公式マニュアル
 - リリース版 https://codeigniter4.github.io/userguide/
 - 開発版 https://codeigniter4.github.io/CodeIgniter4/
+- [開発版 Google翻訳](https://codeigniter4-github-io.translate.goog/CodeIgniter4/intro/index.html?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja)
 
 ※ 最新の英語の開発版を（必要なら翻訳して）参照することを推奨します。ググると日本語のユーザーガイドがヒットするかも知れませんが、古いものほど原文に誤りや不備が多いため注意してください。
 
