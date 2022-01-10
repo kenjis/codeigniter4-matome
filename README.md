@@ -49,7 +49,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
-- 2022-01-10 CodeIgniter [v4.1.7](https://github.com/codeigniter4/CodeIgniter4/releases/tag/v4.1.7) リリース
+- 2022-01-10 CodeIgniter [v4.1.7](https://www.codeigniter.com/user_guide/changelogs/v4.1.7.html) リリース
 - 2022-01-04 [CodeIgniter v4.1.6 released](https://forum.codeigniter.com/thread-80926.html)
   - PHP 8.1 をサポート
   - 脆弱性情報 [Deserialization of Untrusted Data in Codeigniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-w6jr-wj64-mc9x)
