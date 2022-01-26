@@ -49,6 +49,8 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2022-01-25 CodeIgniter [v4.1.8](https://codeigniter4.github.io/userguide/changelogs/v4.1.8.html) リリース
+  - 脆弱性情報 [XSS Vulnerability in API\ResponseTrait in CodeIgniter4 ](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-7528-7jg5-6g62)
 - 2022-01-10 CodeIgniter [v4.1.7](https://codeigniter4.github.io/userguide/changelogs/v4.1.7.html) リリース
 - 2022-01-04 [CodeIgniter v4.1.6 released](https://forum.codeigniter.com/thread-80926.html)
   - PHP 8.1 をサポート
@@ -88,6 +90,9 @@
 - Qiita https://qiita.com/tags/codeigniter4
 
 ## 脆弱性情報
+- [XSS Vulnerability in API\ResponseTrait in CodeIgniter4 ](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-7528-7jg5-6g62)
+  - 〜v4.1.7
+  - v4.1.8 で修正済み
 - [Deserialization of Untrusted Data in Codeigniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-w6jr-wj64-mc9x)
   - 〜v4.1.5
   - v4.1.6 で修正済み
