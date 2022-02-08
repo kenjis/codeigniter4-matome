@@ -162,7 +162,7 @@
 
 ### ルーティング
 - [CodeIgniter4のルーティング](https://zenn.dev/kenjis/articles/139208ac5e38c9)
-- [本当は危ないCodeIgniter4の自動ルーティング](https://zenn.dev/kenjis/articles/5a1487b85a0ad9)
+- [【改訂版】本当は危ないCodeIgniter4の自動ルーティング](http://blog.a-way-out.net/blog/2022/02/08/really-dangerous-codeigniter4-auto-routing/)
 - [kenjis/ci4-attribute-routes: CodeIgniter4 Attribute Routes](https://github.com/kenjis/ci4-attribute-routes)
 
 ### REST API
