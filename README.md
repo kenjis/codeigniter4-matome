@@ -49,8 +49,11 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2022-02-26 CodeIgniter [v4.1.9](https://codeigniter4.github.io/userguide/changelogs/v4.1.9.html) リリース
+  - 脆弱性情報 [Remote CLI Command Execution Vulnerability in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-xjp4-6w75-qrj7)
+  - 脆弱性情報 [Cross-Site Request Forgery (CSRF) Protection Bypass Vulnerability in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-4v37-24gm-h554)
 - 2022-01-25 CodeIgniter [v4.1.8](https://codeigniter4.github.io/userguide/changelogs/v4.1.8.html) リリース
-  - 脆弱性情報 [XSS Vulnerability in API\ResponseTrait in CodeIgniter4 ](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-7528-7jg5-6g62)
+  - 脆弱性情報 [XSS Vulnerability in API\ResponseTrait in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-7528-7jg5-6g62)
 - 2022-01-10 CodeIgniter [v4.1.7](https://codeigniter4.github.io/userguide/changelogs/v4.1.7.html) リリース
 - 2022-01-04 [CodeIgniter v4.1.6 released](https://forum.codeigniter.com/thread-80926.html)
   - PHP 8.1 をサポート
@@ -90,6 +93,10 @@
 - Qiita https://qiita.com/tags/codeigniter4
 
 ## 脆弱性情報
+- [Remote CLI Command Execution Vulnerability in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-xjp4-6w75-qrj7)
+- [Cross-Site Request Forgery (CSRF) Protection Bypass Vulnerability in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-4v37-24gm-h554)
+  - 〜v4.1.8
+  - v4.1.9 で修正済み
 - [XSS Vulnerability in API\ResponseTrait in CodeIgniter4 ](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-7528-7jg5-6g62)
   - 〜v4.1.7
   - v4.1.8 で修正済み
