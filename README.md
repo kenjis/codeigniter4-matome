@@ -68,7 +68,8 @@
   - PHP 8.0 をサポート
   - 4.0.5 は PHP 7.2 をサポートする最後のバージョン
   - 4.1.0 は PHP 7.3 以上が必要
-- 2020-07-16 [CodeIgniter v4.0.4 released](https://forum.codeigniter.com/thread-77054.html)
+
+[過去のニュース](./old/News.md)
 
 ## 本家
 - CodeIgniter 公式サイト http://codeigniter.com/
