@@ -241,6 +241,7 @@
 ### 公式
 - [codeigniter4/settings: Settings Library for CodeIgniter 4](https://github.com/codeigniter4/settings)
 - [codeigniter4/cache: PSR-6 and PSR-16 Cache Adapters for CodeIgniter 4](https://github.com/codeigniter4/cache)
+- (開発中) [codeigniter4/tasks: Task Scheduler for CodeIgnter 4](https://github.com/codeigniter4/tasks) 
 
 ### 認証
 - [lonnieezell/myth-auth: One-stop Auth package for CodeIgniter 4](https://github.com/lonnieezell/myth-auth)
@@ -252,6 +253,7 @@
 ### データベース
 - [daycry/doctrine: Doctrine for Codeigniter 4](https://github.com/daycry/doctrine)
 - [Illuminate Database Wrapper for CodeIgniter 4](https://github.com/nfaiz/dbtoolkit)
+- [irsyadulibad/ci4-datatables: Server Side Datatables Library for CodeIgniter 4 Framework](https://github.com/irsyadulibad/ci4-datatables)
 
 ### ロギング
 - [ajmeireles/ci4-sentry: Sentry Integration with CodeIgniter 4](https://github.com/ajmeireles/ci4-sentry)
