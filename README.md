@@ -125,6 +125,7 @@
 - [CodeIgniter Plugins for Visual Studio Code](https://marketplace.visualstudio.com/search?term=codeigniter&target=VSCode&category=All%20categories&sortBy=Relevance)
 
 ### その他
+- [codeigniter4/devkit: Development toolkit for CodeIgniter libraries and projects](https://github.com/codeigniter4/devkit)
 - [SDPM-lab/Codeigniter4-Roadrunner: Make Codeigniter4 work on Roadrunner Server.](https://github.com/SDPM-lab/Codeigniter4-Roadrunner)
 
 ## インストール
