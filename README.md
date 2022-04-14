@@ -134,6 +134,7 @@
   http://blog.a-way-out.net/blog/2020/12/30/update-codeigniter-404/)
 - [CodeIgniter4をインストール (Composer利用) - Qiita](https://qiita.com/kohenji01/items/a36dbbbb19bb8808d104)
 - [1つのCodeigniterで複数サイト（例：フロントと管理画面）を運用する - Qiita](https://qiita.com/bananacoffee/items/ca7784ebe0d2d5a320d1)
+- [Running Multiple Applications with one CodeIgniter Installation](https://github.com/kenjis/codeigniter4-multiple-apps-sample)
 - [CodeIgniter4で新しいCI_ENVIRONMENTを定義する](https://zenn.dev/kenjis/articles/24ff7332d32837)
 
 ### アプリケーションテンプレート
