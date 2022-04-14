@@ -245,11 +245,11 @@
 - (開発中) [codeigniter4/tasks: Task Scheduler for CodeIgnter 4](https://github.com/codeigniter4/tasks) 
 
 ### 認証
+- [lonnieezell/codeigniter-shield: Authentication and Authorization for CodeIgniter 4](
+  https://github.com/lonnieezell/codeigniter-shield)
 - [lonnieezell/myth-auth: One-stop Auth package for CodeIgniter 4](https://github.com/lonnieezell/myth-auth)
   - [CodeIgniter4の認証ライブラリMyth Authを使う](https://zenn.dev/kenjis/articles/95f38b7e447155)
 - [benedmunds/CodeIgniter-Ion-Auth at 4](https://github.com/benedmunds/CodeIgniter-Ion-Auth/tree/4)
-- [lonnieezell/codeigniter-shield: Authentication and Authorization for CodeIgniter 4](
-  https://github.com/lonnieezell/codeigniter-shield)
 
 ### データベース
 - [daycry/doctrine: Doctrine for Codeigniter 4](https://github.com/daycry/doctrine)
