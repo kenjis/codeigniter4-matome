@@ -20,6 +20,7 @@
 - [コントローラ](#%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%A9)
   - [ルーティング](#%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)
   - [REST API](#rest-api)
+  - [バリデーション](#%E3%83%90%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 - [モデル](#%E3%83%A2%E3%83%87%E3%83%AB)
   - [CodeIgniter Model](#codeigniter-model)
   - [データベース](#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9)
@@ -161,6 +162,10 @@
 ### REST API
 - [CodeIgniter4でREST APIを作成する](http://blog.a-way-out.net/blog/2020/12/20/codeigniter4-rest-api/)
 - [CodeIgniterとJSON Web Tokenを使用したセキュアなRESTful APIの構築方法](https://www.twilio.com/blog/create-secured-restful-api-codeigniter-php-jp)
+
+### バリデーション
+
+- [CodeIgniter4 の $this->validate() でラベル付きのエラーメッセージを使用する - Qiita](https://qiita.com/naente/items/c372dbc3c7f36dbbf373)
 
 ## モデル
 
