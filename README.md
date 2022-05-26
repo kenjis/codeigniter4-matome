@@ -249,6 +249,7 @@
   https://github.com/codeigniter4/shield)
 
 ### 認証
+- [CodeIgniter4の公式認証ライブラリCodeIgniter Shieldを使う](http://blog.a-way-out.net/blog/2022/05/26/codeigniter-shield/)
 - [lonnieezell/myth-auth: One-stop Auth package for CodeIgniter 4](https://github.com/lonnieezell/myth-auth)
   - [CodeIgniter4の認証ライブラリMyth Authを使う](https://zenn.dev/kenjis/articles/95f38b7e447155)
 - [benedmunds/CodeIgniter-Ion-Auth at 4](https://github.com/benedmunds/CodeIgniter-Ion-Auth/tree/4)
