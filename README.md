@@ -50,6 +50,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2022-06-03 公式認証パッケージ [CodeIgniter Shield v1.0.0-beta](https://github.com/codeigniter4/shield/releases) リリース
 - 2022-02-26 CodeIgniter [v4.1.9](https://codeigniter4.github.io/userguide/changelogs/v4.1.9.html) リリース
   - 脆弱性情報 [Remote CLI Command Execution Vulnerability in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-xjp4-6w75-qrj7)
   - 脆弱性情報 [Cross-Site Request Forgery (CSRF) Protection Bypass Vulnerability in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-4v37-24gm-h554)
@@ -244,9 +245,9 @@
 ### 公式
 - [codeigniter4/settings: Settings Library for CodeIgniter 4](https://github.com/codeigniter4/settings)
 - [codeigniter4/cache: PSR-6 and PSR-16 Cache Adapters for CodeIgniter 4](https://github.com/codeigniter4/cache)
-- (開発中) [codeigniter4/tasks: Task Scheduler for CodeIgnter 4](https://github.com/codeigniter4/tasks) 
-- (開発中) [codeigniter4/shield: Authentication and Authorization for CodeIgniter 4](
+- [codeigniter4/shield: Authentication and Authorization for CodeIgniter 4](
   https://github.com/codeigniter4/shield)
+- (開発中) [codeigniter4/tasks: Task Scheduler for CodeIgnter 4](https://github.com/codeigniter4/tasks)
 
 ### 認証
 - [CodeIgniter4の公式認証ライブラリCodeIgniter Shieldを使う](http://blog.a-way-out.net/blog/2022/05/26/codeigniter-shield/)
