@@ -50,6 +50,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2022-06-04 CodeIgniter DevKit [v1.0.0 リリース](https://github.com/codeigniter4/devkit/releases)
 - 2022-06-04 [CodeIgniter 4.2](https://forum.codeigniter.com/showthread.php?tid=82011) リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.0.html))
   - PHP 7.4 以上が必要
 - 2022-06-03 公式認証パッケージ [CodeIgniter Shield](https://github.com/codeigniter4/shield#codeigniter-shield) [v1.0.0-beta](https://github.com/codeigniter4/shield/releases) [リリース](https://forum.codeigniter.com/showthread.php?tid=82003)
