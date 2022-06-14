@@ -51,6 +51,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2022-06-10 新しいTwitterアカウント[CodeIgniterPHP](https://twitter.com/CodeIgniterPhp)開設
 - 2022-06-04 CodeIgniter DevKit [v1.0.0 リリース](https://github.com/codeigniter4/devkit/releases)
 - 2022-06-04 [CodeIgniter 4.2](https://forum.codeigniter.com/showthread.php?tid=82011) リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.0.html))
   - PHP 7.4 以上が必要
@@ -79,6 +80,7 @@
 
 ## 本家
 - CodeIgniter 公式サイト http://codeigniter.com/
+- CodeIgniter 公式Twitter https://twitter.com/CodeIgniterPhp
 - リポジトリ
   - 開発 https://github.com/codeigniter4/CodeIgniter4
   - システムメッセージ翻訳 https://github.com/codeigniter4/translations
