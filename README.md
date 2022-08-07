@@ -52,6 +52,8 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2022-08-07 CodeIgniter 4.2.3 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.3.html))
+- 2022-08-06 CodeIgniter 4.2.2 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.2.html))
 - 2022-08-04 [Bonfire2 v1.0.0-beta-1](https://github.com/lonnieezell/Bonfire2/releases/tag/v1.0.0-beta-1) リリース
 - 2022-06-17 [CodeIgniter 4.2.1](https://forum.codeigniter.com/showthread.php?tid=82144) リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.1.html))
 - 2022-06-10 新しいTwitterアカウント[CodeIgniterPHP](https://twitter.com/CodeIgniterPhp) 開設
