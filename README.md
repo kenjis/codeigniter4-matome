@@ -131,7 +131,7 @@
 - [SDPM-lab/Codeigniter4-Roadrunner: Make Codeigniter4 work on Roadrunner Server.](https://github.com/SDPM-lab/Codeigniter4-Roadrunner)
 
 ## インストール
-- [CodeIgniter 4.1のインストール方法【2021年最新版】](https://zenn.dev/kenjis/articles/9a68c7fdbd5aaa)
+- [CodeIgniter 4.2のインストール方法【2022年最新版】](http://blog.a-way-out.net/blog/2022/06/30/how-to-install-codeigniter-421/)
 - [CodeIgniter 4.0を開発版にアップデートする](
   http://blog.a-way-out.net/blog/2020/12/30/update-codeigniter-404/)
 - [CodeIgniter4をインストール (Composer利用) - Qiita](https://qiita.com/kohenji01/items/a36dbbbb19bb8808d104)
