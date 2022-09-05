@@ -52,6 +52,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2022-09-05 CodeIgniter 4.2.6 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.6.html))
 - 2022-08-29 CodeIgniter 4.2.5 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.5.html))
 - 2022-08-28 CodeIgniter DevKit [1.1.0 リリース](https://github.com/codeigniter4/devkit/releases/tag/v1.1.0)
 - 2022-08-14 CodeIgniter 4.2.4 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.4.html))
