@@ -141,6 +141,7 @@
 - [1つのCodeigniterで複数サイト（例：フロントと管理画面）を運用する - Qiita](https://qiita.com/bananacoffee/items/ca7784ebe0d2d5a320d1)
 - [Running Multiple Applications with one CodeIgniter Installation](https://github.com/kenjis/codeigniter4-multiple-apps-sample)
 - [CodeIgniter4で新しいCI_ENVIRONMENTを定義する](https://zenn.dev/kenjis/articles/24ff7332d32837)
+- [CodeIgniter4 .env ファイルを使った encrypt 設定でハマった](https://zenn.dev/naente/articles/e6a7dd8fd51de0)
 
 ### アプリケーションテンプレート
 - [kenjis/ci4-app-template: CodeIgniter4 application template](https://github.com/kenjis/ci4-app-template)
