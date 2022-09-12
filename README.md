@@ -123,7 +123,9 @@
 
 ### アップデートツール
 - [tattersoftware/codeigniter4-patches: Automated project updates for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-patches)
+  - [使用例](https://github.com/kenjis/ci4-composer-installer#tatterpatches)
 - [paulbalandan/liaison-revision: Seamless software updates library for CodeIgniter4 projects.](https://github.com/paulbalandan/liaison-revision)
+  - [使用例](https://github.com/kenjis/ci4-composer-installer#liaison-revision)
 
 ### IDE
 - [PhpStorm](https://www.jetbrains.com/ja-jp/phpstorm/)
