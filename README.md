@@ -265,6 +265,7 @@
   - [CodeIgniter4の認証ライブラリMyth Authを使う](https://zenn.dev/kenjis/articles/95f38b7e447155)
 - [benedmunds/CodeIgniter-Ion-Auth at 4](https://github.com/benedmunds/CodeIgniter-Ion-Auth/tree/4)
 - [Integrating CodeIgniter 4 with Auth0 | michalsn](https://michalsn.dev/posts/integrating-codeigniter-4-with-auth0/)
+- [Codeigniter4でソーシャルメディアログインを実装する](https://blog.takeho.com/implement-social-media-login-with-codeigniter-4/)
 
 ### データベース
 - [daycry/doctrine: Doctrine for Codeigniter 4](https://github.com/daycry/doctrine)
