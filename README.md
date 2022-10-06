@@ -52,6 +52,8 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2022-10-06 CodeIgniter 4.2.7 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.7.html))
+  - 脆弱性情報 [Secure or HttpOnly flag set in Config\Cookie is not reflected in Cookies issued in Codeigniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-745p-r637-7vvp)
 - 2022-09-05 CodeIgniter 4.2.6 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.6.html))
 - 2022-08-29 CodeIgniter 4.2.5 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.5.html))
 - 2022-08-28 CodeIgniter DevKit [1.1.0 リリース](https://github.com/codeigniter4/devkit/releases/tag/v1.1.0)
@@ -102,11 +104,13 @@
 - Qiita https://qiita.com/tags/codeigniter4
 
 ## 脆弱性情報
+- v4.2.7 で修正済み
+  - [Secure or HttpOnly flag set in Config\Cookie is not reflected in Cookies issued in Codeigniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-745p-r637-7vvp)
 - v4.1.9 で修正済み
   - [Remote CLI Command Execution Vulnerability in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-xjp4-6w75-qrj7)
   - [Cross-Site Request Forgery (CSRF) Protection Bypass Vulnerability in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-4v37-24gm-h554)
 - v4.1.8 で修正済み
-  - [XSS Vulnerability in API\ResponseTrait in CodeIgniter4 ](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-7528-7jg5-6g62)
+  - [XSS Vulnerability in API\ResponseTrait in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-7528-7jg5-6g62)
 - v4.1.6 で修正済み
   - [Deserialization of Untrusted Data in Codeigniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-w6jr-wj64-mc9x)
 
