@@ -44,9 +44,9 @@
   - [REST](#rest)
   - [多言語化](#%E5%A4%9A%E8%A8%80%E8%AA%9E%E5%8C%96)
   - [JavaScript/CSS](#javascriptcss)
+  - [Reactive](#reactive)
   - [Queue](#queue)
   - [Captcha](#captcha)
-  - [Reactive](#reactive)
   - [Long-living PHP](#long-living-php)
 - [アプリケーション](#%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 - [書籍](#%E6%9B%B8%E7%B1%8D)
@@ -292,6 +292,9 @@
 - [michalsn/minifier: Asset minification and versioning library for CodeIgniter 4](https://github.com/michalsn/minifier)
 - [tattersoftware/codeigniter4-assets: Asset handling for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-assets)
 
+### Reactive
+- [CodeIgniter4 Viewi Demo](https://github.com/kenjis/ci4-viewi-demo)
+
 ### Queue
 - [colethorsen/codeigniter4-queue](https://github.com/colethorsen/codeigniter4-queue)
 
@@ -302,10 +305,6 @@
   - https://github.com/denis303/codeigniter4-recaptcha
 - [gregwar/captcha - Packagist](https://packagist.org/packages/gregwar/captcha)
 - [laminas/laminas-captcha - Packagist](https://packagist.org/packages/laminas/laminas-captcha)
-
-### Reactive
-
-- [CodeIgniter4 Viewi Demo](https://github.com/kenjis/ci4-viewi-demo)
 
 ### Long-living PHP
 
