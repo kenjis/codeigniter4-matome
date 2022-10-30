@@ -298,6 +298,7 @@
 
 ### Queue
 - [colethorsen/codeigniter4-queue](https://github.com/colethorsen/codeigniter4-queue)
+- [arashsaffari/queue](https://github.com/arashsaffari/queue)
 
 ### Captcha
 - [kenjis/ci3-like-captcha - Packagist](https://packagist.org/packages/kenjis/ci3-like-captcha)
