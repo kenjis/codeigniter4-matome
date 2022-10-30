@@ -36,6 +36,7 @@
 - [デバッグ](#%E3%83%87%E3%83%90%E3%83%83%E3%82%B0)
 - [フレームワーク内部](#%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E5%86%85%E9%83%A8)
 - [フレームワークの拡張](#%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AE%E6%8B%A1%E5%BC%B5)
+- [Long-living PHP](#long-living-php)
 - [ライブラリ](#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA)
   - [公式](#%E5%85%AC%E5%BC%8F)
   - [認証](#%E8%AA%8D%E8%A8%BC)
@@ -138,7 +139,6 @@
 
 ### その他
 - [codeigniter4/devkit: Development toolkit for CodeIgniter libraries and projects](https://github.com/codeigniter4/devkit)
-- [SDPM-lab/Codeigniter4-Roadrunner: Make Codeigniter4 work on Roadrunner Server.](https://github.com/SDPM-lab/Codeigniter4-Roadrunner)
 
 ## インストール
 - [CodeIgniter 4.2のインストール方法【2022年最新版】](http://blog.a-way-out.net/blog/2022/06/30/how-to-install-codeigniter-421/)
@@ -301,6 +301,10 @@
   - https://github.com/denis303/codeigniter4-recaptcha
 - [gregwar/captcha - Packagist](https://packagist.org/packages/gregwar/captcha)
 - [laminas/laminas-captcha - Packagist](https://packagist.org/packages/laminas/laminas-captcha)
+
+### Long-living PHP
+
+- [CodeIgniter4-Burner](https://github.com/monkenWu/CodeIgniter4-Burner) RoadRunner, Workerman, and OpenSwoole
 
 ## アプリケーション
 - [『CodeIgniter徹底入門』のサンプルアプリケーション （CodeIgniter v4.1版） ](https://github.com/kenjis/ci4-tettei-apps)
