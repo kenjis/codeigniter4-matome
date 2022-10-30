@@ -48,6 +48,7 @@
   - [Queue](#queue)
   - [Captcha](#captcha)
   - [Long-living PHP](#long-living-php)
+  - [Serverless](#serverless)
 - [アプリケーション](#%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 - [書籍](#%E6%9B%B8%E7%B1%8D)
 
@@ -311,6 +312,10 @@
 ### Long-living PHP
 
 - [CodeIgniter4-Burner](https://github.com/monkenWu/CodeIgniter4-Burner) RoadRunner, Workerman, and OpenSwoole
+
+### Serverless
+
+- [serverless CodeIgniter PHP Framework - powered by Vercel & PlanetScale](https://serverless-codeigniter.vercel.app/)
 
 ## アプリケーション
 - [『CodeIgniter徹底入門』のサンプルアプリケーション （CodeIgniter v4.1版） ](https://github.com/kenjis/ci4-tettei-apps)
