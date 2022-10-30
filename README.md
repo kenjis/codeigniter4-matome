@@ -55,6 +55,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2022-10-31 公式認証パッケージ CodeIgniter Shield 1.0.0-beta.3 リリース（[ChangeLog](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta.3)）
 - 2022-10-06 CodeIgniter 4.2.7 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.7.html))
   - 脆弱性情報 [Secure or HttpOnly flag set in Config\Cookie is not reflected in Cookies issued in Codeigniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-745p-r637-7vvp)
 - 2022-09-05 CodeIgniter 4.2.6 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.6.html))
@@ -71,7 +72,7 @@
 - 2022-06-04 CodeIgniter DevKit [v1.0.0 リリース](https://github.com/codeigniter4/devkit/releases)
 - 2022-06-04 [CodeIgniter 4.2](https://forum.codeigniter.com/showthread.php?tid=82011) リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.0.html))
   - PHP 7.4 以上が必要
-- 2022-06-03 公式認証パッケージ [CodeIgniter Shield](https://github.com/codeigniter4/shield#codeigniter-shield) [v1.0.0-beta](https://github.com/codeigniter4/shield/releases) [リリース](https://forum.codeigniter.com/showthread.php?tid=82003)
+- 2022-06-03 公式認証パッケージ [CodeIgniter Shield](https://github.com/codeigniter4/shield#codeigniter-shield) [v1.0.0-beta](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta) [リリース](https://forum.codeigniter.com/showthread.php?tid=82003)
 - 2022-02-26 CodeIgniter [v4.1.9](https://codeigniter4.github.io/userguide/changelogs/v4.1.9.html) リリース
   - 脆弱性情報 [Remote CLI Command Execution Vulnerability in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-xjp4-6w75-qrj7)
   - 脆弱性情報 [Cross-Site Request Forgery (CSRF) Protection Bypass Vulnerability in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-4v37-24gm-h554)
