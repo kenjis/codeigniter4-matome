@@ -55,6 +55,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2022-10-31 CodeIgniter 4.2.8 & 4.2.9 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.8.html))
 - 2022-10-31 公式認証パッケージ CodeIgniter Shield 1.0.0-beta.3 リリース（[ChangeLog](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta.3)）
 - 2022-10-06 CodeIgniter 4.2.7 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.7.html))
   - 脆弱性情報 [Secure or HttpOnly flag set in Config\Cookie is not reflected in Cookies issued in Codeigniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-745p-r637-7vvp)
