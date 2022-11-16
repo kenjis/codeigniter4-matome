@@ -185,6 +185,7 @@
 ### バリデーション
 
 - [CodeIgniter4 の $this->validate() でラベル付きのエラーメッセージを使用する - Qiita](https://qiita.com/naente/items/c372dbc3c7f36dbbf373)
+- [CodeIgniter4 バリデーションルール valid_date は年月の検証に使用できるのか](https://zenn.dev/naente/articles/49c5717c2a4e26)
 
 ## モデル
 
