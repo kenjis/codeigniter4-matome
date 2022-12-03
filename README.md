@@ -176,6 +176,7 @@
 - [CodeIgniter 4.2.0 で導入された新しい自動ルーティングについて](https://www.sodo-shed.com/archives/14285)
 - [CodeIgniter4のルーティング](https://zenn.dev/kenjis/articles/139208ac5e38c9)
 - [【改訂版】本当は危ないCodeIgniter4の自動ルーティング](http://blog.a-way-out.net/blog/2022/02/08/really-dangerous-codeigniter4-auto-routing/)
+- [Improving Route Filters definition](https://github.com/tangix/ci4-zen-zone/blob/main/improve-route-filters/improving-route-filters.md)
 - [kenjis/ci4-attribute-routes: CodeIgniter4 Attribute Routes](https://github.com/kenjis/ci4-attribute-routes)
 
 ### REST API
