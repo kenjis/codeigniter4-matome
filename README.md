@@ -205,7 +205,7 @@
 #### CodeIgniter Model 関連パッケージ
 - [tattersoftware/codeigniter4-relations: Entity relationships for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-relations)
 - [tattersoftware/codeigniter4-roster: Bulk name lookup for database relations](https://github.com/tattersoftware/codeigniter4-roster)
-- [tattersoftware/codeigniter4-permits: Dynamic permission handling for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-permits)
+- [tattersoftware/codeigniter4-permits: Model permission handling for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-permits)
 - [tattersoftware/codeigniter4-audits: Lightweight object logging for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-audits)
 
 ### データベース
