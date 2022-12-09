@@ -74,6 +74,7 @@
 - 2022-06-04 CodeIgniter DevKit [v1.0.0 リリース](https://github.com/codeigniter4/devkit/releases)
 - 2022-06-04 [CodeIgniter 4.2](https://forum.codeigniter.com/showthread.php?tid=82011) リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.0.html))
   - PHP 7.4 以上が必要
+  - [CodeIgniter 4.2 の変更点](http://blog.a-way-out.net/blog/2022/12/04/codeigniter-4-2/)
 - 2022-06-03 公式認証パッケージ [CodeIgniter Shield](https://github.com/codeigniter4/shield#codeigniter-shield) [v1.0.0-beta](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta) [リリース](https://forum.codeigniter.com/showthread.php?tid=82003)
 - 2022-02-26 CodeIgniter [v4.1.9](https://codeigniter4.github.io/userguide/changelogs/v4.1.9.html) リリース
   - 脆弱性情報 [Remote CLI Command Execution Vulnerability in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-xjp4-6w75-qrj7)
@@ -120,6 +121,7 @@
   - [XSS Vulnerability in API\ResponseTrait in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-7528-7jg5-6g62)
 - v4.1.6 で修正済み
   - [Deserialization of Untrusted Data in Codeigniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-w6jr-wj64-mc9x)
+    - [CodeIgniter 4.1.5 までのオブジェクトインジェクション脆弱性](http://blog.a-way-out.net/blog/2022/12/07/codeigniter4-object-injection-vulnerability/)
 
 ## 問題
 
@@ -133,7 +135,7 @@
 
 ### アップデートツール
 - [tattersoftware/codeigniter4-patches: Automated project updates for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-patches)
-  - [使用例](https://github.com/kenjis/ci4-composer-installer#tatterpatches)
+  - [CodeIgniter4のプロジェクトファイルを簡単にアップグレードする](http://blog.a-way-out.net/blog/2022/12/06/easily-upgrade-your-codeIgniter4-project-files/)
 - [paulbalandan/liaison-revision: Seamless software updates library for CodeIgniter4 projects.](https://github.com/paulbalandan/liaison-revision)
   - [使用例](https://github.com/kenjis/ci4-composer-installer#liaison-revision)
 
@@ -157,6 +159,7 @@
 ### アプリケーションテンプレート
 - [kenjis/ci4-app-template: CodeIgniter4 application template](https://github.com/kenjis/ci4-app-template)
 - [lonnieezell/Bonfire2: CodeIgniter 4-based application skeleton](https://github.com/lonnieezell/Bonfire2)
+  - [CodeIgniter4 Bonfire2を試す](http://blog.a-way-out.net/blog/2022/12/08/codeigniter4-bonfire2/)
 
 ## チュートリアル
 - [CodeIgniter4入門 公式チュートリアル](https://zenn.dev/kenjis/articles/3d5e42f872ff18)
@@ -171,8 +174,8 @@
 ## コントローラ
 
 ### ルーティング
+- [【改訂版】CodeIgniter4のルーティング](http://blog.a-way-out.net/blog/2022/12/05/codeigniter4-routing/)
 - [CodeIgniter 4.2.0 で導入された新しい自動ルーティングについて](https://www.sodo-shed.com/archives/14285)
-- [CodeIgniter4のルーティング](https://zenn.dev/kenjis/articles/139208ac5e38c9)
 - [【改訂版】本当は危ないCodeIgniter4の自動ルーティング](http://blog.a-way-out.net/blog/2022/02/08/really-dangerous-codeigniter4-auto-routing/)
 - [Improving Route Filters definition](https://github.com/tangix/ci4-zen-zone/blob/main/improve-route-filters/improving-route-filters.md)
 - [kenjis/ci4-attribute-routes: CodeIgniter4 Attribute Routes](https://github.com/kenjis/ci4-attribute-routes)
@@ -182,7 +185,7 @@
 - [CodeIgniterとJSON Web Tokenを使用したセキュアなRESTful APIの構築方法](https://www.twilio.com/blog/create-secured-restful-api-codeigniter-php-jp)
 
 ### バリデーション
-
+- [CodeIgniter4のバリデーション](http://blog.a-way-out.net/blog/2022/12/03/codeigniter4-validation/)
 - [CodeIgniter4 の $this->validate() でラベル付きのエラーメッセージを使用する - Qiita](https://qiita.com/naente/items/c372dbc3c7f36dbbf373)
 - [CodeIgniter4 バリデーションルール valid_date は年月の検証に使用できるのか](https://zenn.dev/naente/articles/49c5717c2a4e26)
 - [本当は緩いCodeIgniterのvalid_urlバリデーションルール](http://blog.a-way-out.net/blog/2022/12/02/really-loose-codeigniter-valid-url/)
