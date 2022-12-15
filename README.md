@@ -191,7 +191,6 @@
 - [本当は緩いCodeIgniterのvalid_urlバリデーションルール](http://blog.a-way-out.net/blog/2022/12/02/really-loose-codeigniter-valid-url/)
 
 ## モデル
-
 - [CodeIgniter\Modelを使わない場合](https://zenn.dev/kenjis/articles/31526cefe34f0c)
 
 ### CodeIgniter Model
@@ -318,11 +317,9 @@
 - [laminas/laminas-captcha - Packagist](https://packagist.org/packages/laminas/laminas-captcha)
 
 ### Long-living PHP
-
 - [CodeIgniter4-Burner](https://github.com/monkenWu/CodeIgniter4-Burner) RoadRunner, Workerman, and OpenSwoole
 
 ### Serverless
-
 - [serverless CodeIgniter PHP Framework - powered by Vercel & PlanetScale](https://serverless-codeigniter.vercel.app/)
 
 ## アプリケーション
