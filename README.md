@@ -188,6 +188,7 @@
 - [【改訂版】CodeIgniter4のルーティング](http://blog.a-way-out.net/blog/2022/12/05/codeigniter4-routing/)
 - [CodeIgniter 4.2.0 で導入された新しい自動ルーティングについて](https://www.sodo-shed.com/archives/14285)
 - [【改訂版】本当は危ないCodeIgniter4の自動ルーティング](http://blog.a-way-out.net/blog/2022/02/08/really-dangerous-codeigniter4-auto-routing/)
+- [CodeIgniter4のルーティングでのプレイスホルダー (:any) について](http://blog.a-way-out.net/blog/2022/12/11/codeigniter4-routing-placeholder-any/)
 - [Improving Route Filters definition](https://github.com/tangix/ci4-zen-zone/blob/main/improve-route-filters/improving-route-filters.md)
 - [kenjis/ci4-attribute-routes: CodeIgniter4 Attribute Routes](https://github.com/kenjis/ci4-attribute-routes)
 
