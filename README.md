@@ -11,11 +11,11 @@
 - [問題](#%E5%95%8F%E9%A1%8C)
 - [開発環境の構築](#%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E6%A7%8B%E7%AF%89)
   - [Docker](#docker)
-  - [アップデートツール](#%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%83%84%E3%83%BC%E3%83%AB)
   - [IDE](#ide)
   - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
 - [インストール](#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
   - [アプリケーションテンプレート](#%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88)
+- [アップグレード](#%E3%82%A2%E3%83%83%E3%83%97%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89)
 - [設定](#%E8%A8%AD%E5%AE%9A)
 - [チュートリアル](#%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB)
 - [基本概念](#%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
@@ -138,12 +138,6 @@
 - [Devilboxを使いCodeIgniter4の開発環境を構築する](http://blog.a-way-out.net/blog/2022/12/01/build-codeigniter4-develop-env-with-devilbox/)
 - [kenjis/docker-codeigniter-apache: Build a simple CodeIgniter development environment with docker-compose.](https://github.com/kenjis/docker-codeigniter-apache)
 
-### アップデートツール
-- [tattersoftware/codeigniter4-patches: Automated project updates for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-patches)
-  - [CodeIgniter4のプロジェクトファイルを簡単にアップグレードする](http://blog.a-way-out.net/blog/2022/12/06/easily-upgrade-your-codeIgniter4-project-files/)
-- [paulbalandan/liaison-revision: Seamless software updates library for CodeIgniter4 projects.](https://github.com/paulbalandan/liaison-revision)
-  - [使用例](https://github.com/kenjis/ci4-composer-installer#liaison-revision)
-
 ### IDE
 - [PhpStorm](https://www.jetbrains.com/ja-jp/phpstorm/)
 - [CodeIgniter Plugins for Visual Studio Code](https://marketplace.visualstudio.com/search?term=codeigniter&target=VSCode&category=All%20categories&sortBy=Relevance)
@@ -163,6 +157,12 @@
 - [kenjis/ci4-app-template: CodeIgniter4 application template](https://github.com/kenjis/ci4-app-template)
 - [lonnieezell/Bonfire2: CodeIgniter 4-based application skeleton](https://github.com/lonnieezell/Bonfire2)
   - [CodeIgniter4 Bonfire2を試す](http://blog.a-way-out.net/blog/2022/12/08/codeigniter4-bonfire2/)
+
+## アップグレード
+- [tattersoftware/codeigniter4-patches: Automated project updates for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-patches)
+  - [CodeIgniter4のプロジェクトファイルを簡単にアップグレードする](http://blog.a-way-out.net/blog/2022/12/06/easily-upgrade-your-codeIgniter4-project-files/)
+- [paulbalandan/liaison-revision: Seamless software updates library for CodeIgniter4 projects.](https://github.com/paulbalandan/liaison-revision)
+  - [使用例](https://github.com/kenjis/ci4-composer-installer#liaison-revision)
 
 ## 設定
 - [CodeIgniter4の設定](http://blog.a-way-out.net/blog/2020/12/06/codeigniter4-config/)
