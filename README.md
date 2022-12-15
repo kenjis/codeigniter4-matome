@@ -147,8 +147,6 @@
 
 ## インストール
 - [CodeIgniter 4.2のインストール方法【2022年最新版】](http://blog.a-way-out.net/blog/2022/06/30/how-to-install-codeigniter-421/)
-- [CodeIgniter 4.0を開発版にアップデートする](
-  http://blog.a-way-out.net/blog/2020/12/30/update-codeigniter-404/)
 - [CodeIgniter4をインストール (Composer利用) - Qiita](https://qiita.com/kohenji01/items/a36dbbbb19bb8808d104)
 - [1つのCodeigniterで複数サイト（例：フロントと管理画面）を運用する - Qiita](https://qiita.com/bananacoffee/items/ca7784ebe0d2d5a320d1)
 - [Running Multiple Applications with one CodeIgniter Installation](https://github.com/kenjis/codeigniter4-multiple-apps-sample)
@@ -163,6 +161,8 @@
   - [CodeIgniter4のプロジェクトファイルを簡単にアップグレードする](http://blog.a-way-out.net/blog/2022/12/06/easily-upgrade-your-codeIgniter4-project-files/)
 - [paulbalandan/liaison-revision: Seamless software updates library for CodeIgniter4 projects.](https://github.com/paulbalandan/liaison-revision)
   - [使用例](https://github.com/kenjis/ci4-composer-installer#liaison-revision)
+- [CodeIgniter 4.0を開発版にアップデートする](
+  http://blog.a-way-out.net/blog/2020/12/30/update-codeigniter-404/)
 
 ## 設定
 - [CodeIgniter4の設定](http://blog.a-way-out.net/blog/2020/12/06/codeigniter4-config/)
