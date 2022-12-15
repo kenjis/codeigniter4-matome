@@ -16,6 +16,7 @@
   - [その他](#%E3%81%9D%E3%81%AE%E4%BB%96)
 - [インストール](#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
   - [アプリケーションテンプレート](#%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88)
+- [設定](#%E8%A8%AD%E5%AE%9A)
 - [チュートリアル](#%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB)
 - [基本概念](#%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
   - [Services](#services)
@@ -157,13 +158,16 @@
 - [CodeIgniter4をインストール (Composer利用) - Qiita](https://qiita.com/kohenji01/items/a36dbbbb19bb8808d104)
 - [1つのCodeigniterで複数サイト（例：フロントと管理画面）を運用する - Qiita](https://qiita.com/bananacoffee/items/ca7784ebe0d2d5a320d1)
 - [Running Multiple Applications with one CodeIgniter Installation](https://github.com/kenjis/codeigniter4-multiple-apps-sample)
-- [CodeIgniter4で新しいCI_ENVIRONMENTを定義する](https://zenn.dev/kenjis/articles/24ff7332d32837)
-- [CodeIgniter4 .env ファイルを使った encrypt 設定でハマった](https://zenn.dev/naente/articles/e6a7dd8fd51de0)
 
 ### アプリケーションテンプレート
 - [kenjis/ci4-app-template: CodeIgniter4 application template](https://github.com/kenjis/ci4-app-template)
 - [lonnieezell/Bonfire2: CodeIgniter 4-based application skeleton](https://github.com/lonnieezell/Bonfire2)
   - [CodeIgniter4 Bonfire2を試す](http://blog.a-way-out.net/blog/2022/12/08/codeigniter4-bonfire2/)
+
+## 設定
+- [CodeIgniter4の設定](http://blog.a-way-out.net/blog/2020/12/06/codeigniter4-config/)
+- [CodeIgniter4で新しいCI_ENVIRONMENTを定義する](https://zenn.dev/kenjis/articles/24ff7332d32837)
+- [CodeIgniter4 .env ファイルを使った encrypt 設定でハマった](https://zenn.dev/naente/articles/e6a7dd8fd51de0)
 
 ## チュートリアル
 - [CodeIgniter4入門 公式チュートリアル](https://zenn.dev/kenjis/articles/3d5e42f872ff18)
