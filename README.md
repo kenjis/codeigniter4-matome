@@ -171,6 +171,17 @@
     - https://includebeer.com/en/blog/creating-a-multilingual-website-with-codeigniter-4-part-1
     - https://includebeer.com/en/blog/creating-a-multilingual-website-with-codeigniter-4-part-2
 
+## 基本概念
+
+### Services
+- [CodeIgniter4のServicesとは？](http://blog.a-way-out.net/blog/2022/12/12/codeigniter4-services/)
+
+### Factories
+- [CodeIgniter4のFactoriesとは？](http://blog.a-way-out.net/blog/2022/12/13/codeigniter4-factories/)
+
+### Code Modules
+- [CodeIgniter4のモジュール（HMVC）①](http://blog.a-way-out.net/blog/2022/12/14/codeigniter4-modules-1/)
+
 ## コントローラ
 
 ### ルーティング
