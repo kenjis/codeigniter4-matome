@@ -167,7 +167,8 @@
   http://blog.a-way-out.net/blog/2020/12/30/update-codeigniter-404/)
 
 ## 設定
-- [CodeIgniter4の設定](http://blog.a-way-out.net/blog/2020/12/06/codeigniter4-config/)
+- [CodeIgniter 4.2の初期設定](http://blog.a-way-out.net/blog/2022/12/17/codeigniter-4-2-initial-settings/)
+- [CodeIgniter4の設定クラスについて](http://blog.a-way-out.net/blog/2022/12/18/codeigniter4-config-class/)
 - [CodeIgniter4で新しいCI_ENVIRONMENTを定義する](https://zenn.dev/kenjis/articles/24ff7332d32837)
 - [CodeIgniter4 .env ファイルを使った encrypt 設定でハマった](https://zenn.dev/naente/articles/e6a7dd8fd51de0)
 
