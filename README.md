@@ -327,6 +327,7 @@
 
 ### Reactive
 - [CodeIgniter4 Viewi Demo](https://github.com/kenjis/ci4-viewi-demo)
+- [HTMX helper library for CodeIgniter 4 framework](https://github.com/michalsn/codeigniter-htmx)
 
 ### Queue
 - [colethorsen/codeigniter4-queue](https://github.com/colethorsen/codeigniter4-queue)
