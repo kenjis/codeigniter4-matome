@@ -346,6 +346,7 @@
 
 ### Serverless
 - [serverless CodeIgniter PHP Framework - powered by Vercel & PlanetScale](https://serverless-codeigniter.vercel.app/)
+- [Serverless Codeigniter 4 | michalsn](https://michalsn.dev/posts/serverless-codeigniter-4/)
 
 ## アプリケーション
 - [『CodeIgniter徹底入門』のサンプルアプリケーション （CodeIgniter v4.1版） ](https://github.com/kenjis/ci4-tettei-apps)
