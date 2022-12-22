@@ -121,6 +121,9 @@
 - Qiita https://qiita.com/tags/codeigniter4
 
 ## 脆弱性情報
+- v4.2.11 で修正済み
+  - [Attackers may spoof IP address when using proxy ](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-ghw3-5qvm-3mqc)
+  - [Potential Session Handlers Vulnerability](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-6cq5-8cj7-g558)
 - v4.2.7 で修正済み
   - [Secure or HttpOnly flag set in Config\Cookie is not reflected in Cookies issued in Codeigniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-745p-r637-7vvp)
 - v4.1.9 で修正済み
