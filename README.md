@@ -60,6 +60,10 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2022-12-22 CodeIgniter 4.2.11 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.11.html))
+  - 脆弱性情報 [Attackers may spoof IP address when using proxy ](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-ghw3-5qvm-3mqc)
+  - 脆弱性情報 [Potential Session Handlers Vulnerability](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-6cq5-8cj7-g558)
+- 2022-12-22 CodeIgniter DevKit [1.1.1 リリース](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1)
 - 2022-11-06 CodeIgniter 4.2.10 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.10.html))
 - 2022-10-31 CodeIgniter 4.2.8 & 4.2.9 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.8.html))
 - 2022-10-31 公式認証パッケージ CodeIgniter Shield 1.0.0-beta.3 リリース（[ChangeLog](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta.3)）
