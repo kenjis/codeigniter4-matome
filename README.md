@@ -61,7 +61,7 @@
 
 ## 最近の動向
 - 2022-12-22 CodeIgniter 4.2.11 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.11.html))
-  - 脆弱性情報 [Attackers may spoof IP address when using proxy ](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-ghw3-5qvm-3mqc)
+  - 脆弱性情報 [Attackers may spoof IP address when using proxy](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-ghw3-5qvm-3mqc)
   - 脆弱性情報 [Potential Session Handlers Vulnerability](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-6cq5-8cj7-g558)
 - 2022-12-22 CodeIgniter DevKit [1.1.1 リリース](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1)
 - 2022-11-06 CodeIgniter 4.2.10 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.10.html))
@@ -122,7 +122,7 @@
 
 ## 脆弱性情報
 - v4.2.11 で修正済み
-  - [Attackers may spoof IP address when using proxy ](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-ghw3-5qvm-3mqc)
+  - [Attackers may spoof IP address when using proxy](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-ghw3-5qvm-3mqc)
   - [Potential Session Handlers Vulnerability](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-6cq5-8cj7-g558)
 - v4.2.7 で修正済み
   - [Secure or HttpOnly flag set in Config\Cookie is not reflected in Cookies issued in Codeigniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-745p-r637-7vvp)
