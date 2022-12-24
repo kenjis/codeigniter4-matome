@@ -61,6 +61,7 @@
 
 ## 最近の動向
 - 2022-12-22 CodeIgniter 4.2.11 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.11.html))
+  - [CodeIgniter 4.2.11（セキュリティ修正）がリリースされました](http://blog.a-way-out.net/blog/2022/12/23/codeIgniter4211-released/)
   - 脆弱性情報 [Attackers may spoof IP address when using proxy](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-ghw3-5qvm-3mqc)
   - 脆弱性情報 [Potential Session Handlers Vulnerability](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-6cq5-8cj7-g558)
 - 2022-12-22 CodeIgniter DevKit [1.1.1 リリース](https://github.com/codeigniter4/devkit/releases/tag/v1.1.1)
