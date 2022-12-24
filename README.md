@@ -132,6 +132,7 @@
   - [Cross-Site Request Forgery (CSRF) Protection Bypass Vulnerability in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-4v37-24gm-h554)
 - v4.1.8 で修正済み
   - [XSS Vulnerability in API\ResponseTrait in CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-7528-7jg5-6g62)
+    - [CodeIgniter 4.1.7 までのAPI\ResponseTraitのXSS脆弱性](http://blog.a-way-out.net/blog/2022/12/16/codeigniter4-xss-api-response-trait/)
 - v4.1.6 で修正済み
   - [Deserialization of Untrusted Data in Codeigniter4](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-w6jr-wj64-mc9x)
     - [CodeIgniter 4.1.5 までのオブジェクトインジェクション脆弱性](http://blog.a-way-out.net/blog/2022/12/07/codeigniter4-object-injection-vulnerability/)
