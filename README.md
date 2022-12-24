@@ -154,6 +154,8 @@
 - [codeigniter4/devkit: Development toolkit for CodeIgniter libraries and projects](https://github.com/codeigniter4/devkit)
   - [CodeIgniter DevKit で php-cs-fixer を使いコーディングスタイルを修正する](http://blog.a-way-out.net/blog/2022/12/19/codeigniter-devkit-php-cs-fixer/)
   - [CodeIgniter DevKit で Rector を使いコードを修正する](http://blog.a-way-out.net/blog/2022/12/20/codeigniter-devkit-rector/)
+  - [CodeIgniter DevKit で PHPStan を使い静的解析する](http://blog.a-way-out.net/blog/2022/12/21/codeigniter-devkit-phpstan/)
+  - [CodeIgniter DevKit で Psalm を使い静的解析する](http://blog.a-way-out.net/blog/2022/12/22/codeigniter-devkit-psalm/)
 
 ## インストール
 - [CodeIgniter 4.2のインストール方法【2022年最新版】](http://blog.a-way-out.net/blog/2022/06/30/how-to-install-codeigniter-421/)
