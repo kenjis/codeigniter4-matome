@@ -229,9 +229,11 @@
 - [CodeIgniter\Modelを使わない場合](https://zenn.dev/kenjis/articles/31526cefe34f0c)
 
 ### CodeIgniter Model
+- [CodeIgniter4のCodeIgniter\ModelとQuery Builderの関係](http://blog.a-way-out.net/blog/2022/12/25/codeignitr4-model-and-query-builder/)
 - [CodeIgniter4のCodeIgniter\Model](https://zenn.dev/kenjis/articles/6fa2af22ba4a5c)
 - [CodeIgniter4のModelまわり | BITTER GOURD](https://ittan-dev.net/php/codeigniter4-models-try/)
 - [CodeIgniter4のModelの基礎 - Qiita](https://qiita.com/kohenji01/items/b3e947623309d478e02b)
+- [本当は危ないCodeIgniter4のModel::update()](http://blog.a-way-out.net/blog/2022/12/24/codeigniter4-model-pudate-danger/)
 - [CodeIgniter ModelはQuery Builderを直接呼べるのでわかりづらい](https://forum.codeigniter.com/thread-75871-post-373699.html#pid373699)
 - [CodeIgniter 4 Models vs Query Builder - Learn CodeIgniter](https://learncodeigniter.net/codeigniter-tutorials/codeigniter-4-models-vs-query-builder/)
 - [getCompiledSelect の罠、 useSoftDelete が抜け落ちる - Qiita](https://qiita.com/bananacoffee/items/0aff3f5cd005a5f1bfc6)
