@@ -283,7 +283,7 @@
 - [CodeIgniter4でCLIコマンドを作成する](http://blog.a-way-out.net/blog/2020/12/18/create-codeigniter4-cli-commands/)
 
 ## CodeIgniter3 からの移行
-- [CodeIgniter 3.1と4.1の違い](https://zenn.dev/kenjis/articles/cc1c76ebc2a15b)
+- [CodeIgniter 3.1と4.1の違い](http://blog.a-way-out.net/blog/2021/02/22/differences-between-codeigniter31-and-41/)
 - [Codeigniter3で使っていたアレをCodeigniter4で使う - Qiita](https://qiita.com/bananacoffee/items/6bb631391c2301d28c73)
 - [kenjis/ci3-to-4-upgrade-helper: CodeIgniter 3 to 4 Upgrade Helper](https://github.com/kenjis/ci3-to-4-upgrade-helper)
 
