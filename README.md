@@ -60,6 +60,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2023-01-09 CodeIgniter 4.2.12 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.12.html))
 - 2022-12-22 CodeIgniter 4.2.11 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.11.html))
   - [CodeIgniter 4.2.11（セキュリティ修正）がリリースされました](http://blog.a-way-out.net/blog/2022/12/23/codeIgniter4211-released/)
   - 脆弱性情報 [Attackers may spoof IP address when using proxy](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-ghw3-5qvm-3mqc)
