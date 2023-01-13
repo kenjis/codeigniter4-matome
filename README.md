@@ -83,7 +83,7 @@
 - 2022-06-17 [CodeIgniter 4.2.1](https://forum.codeigniter.com/showthread.php?tid=82144) リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.1.html))
 - 2022-06-10 新しいTwitterアカウント[CodeIgniterPHP](https://twitter.com/CodeIgniterPhp) 開設
 - 2022-06-04 CodeIgniter DevKit [v1.0.0 リリース](https://github.com/codeigniter4/devkit/releases)
-- 2022-06-04 [CodeIgniter 4.2](https://forum.codeigniter.com/showthread.php?tid=82011) リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.0.html))
+- 2022-06-04 [CodeIgniter 4.2.0](https://forum.codeigniter.com/showthread.php?tid=82011) リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.2.0.html))
   - PHP 7.4 以上が必要
   - [CodeIgniter 4.2 の変更点](http://blog.a-way-out.net/blog/2022/12/04/codeigniter-4-2/)
 - 2022-06-03 公式認証パッケージ [CodeIgniter Shield](https://github.com/codeigniter4/shield#codeigniter-shield) [v1.0.0-beta](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta) [リリース](https://forum.codeigniter.com/showthread.php?tid=82003)
