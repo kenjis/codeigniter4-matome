@@ -327,6 +327,8 @@
 - [daycry/doctrine: Doctrine for Codeigniter 4](https://github.com/daycry/doctrine)
 - [Illuminate Database Wrapper for CodeIgniter 4](https://github.com/nfaiz/dbtoolkit)
 - [irsyadulibad/ci4-datatables: Server Side Datatables Library for CodeIgniter 4 Framework](https://github.com/irsyadulibad/ci4-datatables)
+- [bhoupert/codeigniter-4-sql-anywhere-db-driver: SAP SQL Anywhere Database driver for CodeIgniter 4](
+  https://github.com/bhoupert/codeigniter-4-sql-anywhere-db-driver)
 
 ### ロギング
 - [ajmeireles/ci4-sentry: Sentry Integration with CodeIgniter 4](https://github.com/ajmeireles/ci4-sentry)
