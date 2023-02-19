@@ -60,6 +60,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2023-02-18 CodeIgniter 4.3.2 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.2.html))
 - 2023-01-14 CodeIgniter 4.3.1 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.1.html))
 - 2023-01-10 CodeIgniter 4.3.0 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.0.html))
   - [CodeIgniter 4.3 の変更点](http://blog.a-way-out.net/blog/2023/01/13/codeigniter-4-3/)
