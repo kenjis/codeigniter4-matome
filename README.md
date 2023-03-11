@@ -60,6 +60,8 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2023-03-11 公式認証パッケージ CodeIgniter Shield 1.0.0-beta.4 リリース（[ChangeLog](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta.4)）
+  - 脆弱性情報 [Password Shucking Vulnerability](https://github.com/codeigniter4/shield/security/advisories/GHSA-c5vj-f36q-p9vg)
 - 2023-02-18 CodeIgniter 4.3.2 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.2.html))
 - 2023-01-14 CodeIgniter 4.3.1 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.1.html))
 - 2023-01-10 CodeIgniter 4.3.0 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.0.html))
