@@ -320,7 +320,13 @@
 - (開発中) [codeigniter4/tasks: Task Scheduler for CodeIgnter 4](https://github.com/codeigniter4/tasks)
 
 ### 認証
+
+#### CodeIgniter Shield
 - [CodeIgniter4の公式認証ライブラリCodeIgniter Shieldを使う](http://blog.a-way-out.net/blog/2022/09/08/codeigniter-shield/)
+- [datamweb/shield-oauth: OAuth for CodeIgniter Shield](https://github.com/datamweb/shield-oauth)
+- [grimpirate/halberd: CodeIgniter4 Google Two-Factor Authentication Module for Shield](https://github.com/grimpirate/halberd)
+
+#### その他
 - [lonnieezell/myth-auth: One-stop Auth package for CodeIgniter 4](https://github.com/lonnieezell/myth-auth)
   - [CodeIgniter4の認証ライブラリMyth Authを使う](https://zenn.dev/kenjis/articles/95f38b7e447155)
 - [benedmunds/CodeIgniter-Ion-Auth at 4](https://github.com/benedmunds/CodeIgniter-Ion-Auth/tree/4)
