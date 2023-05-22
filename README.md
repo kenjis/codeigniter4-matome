@@ -60,6 +60,9 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2023-05-21 CodeIgniter 4.3.5 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.5.html))
+  - 脆弱性情報 [Remote Code Execution Vulnerability in Validation Placeholders](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-m6m8-6gq8-c9fj)
+- 2023-04-27 CodeIgniter 4.3.4 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.4.html))
 - 2023-03-26 CodeIgniter 4.3.3 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.3.html))
 - 2023-03-18 公式認証パッケージ CodeIgniter Shield 1.0.0-beta.5 リリース（[ChangeLog](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta.5)）
 - 2023-03-11 公式認証パッケージ CodeIgniter Shield 1.0.0-beta.4 リリース（[ChangeLog](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta.4)）
@@ -131,6 +134,8 @@
 - Qiita https://qiita.com/tags/codeigniter4
 
 ## 脆弱性情報
+- v4.3.5 で修正済み
+  - [Remote Code Execution Vulnerability in Validation Placeholders](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-m6m8-6gq8-c9fj)
 - v4.2.11 で修正済み
   - [Attackers may spoof IP address when using proxy](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-ghw3-5qvm-3mqc)
   - [Potential Session Handlers Vulnerability](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-6cq5-8cj7-g558)
