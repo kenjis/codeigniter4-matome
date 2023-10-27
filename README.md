@@ -69,6 +69,7 @@
 - 2023-08-25 CodeIgniter 4.3.8 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.8.html))
 - 2023-07-30 CodeIgniter 4.3.7 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.7.html))
 - 2023-06-18 CodeIgniter 4.3.6 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.6.html))
+- 2023-06-02 CodeIgniter 4 Settings [v2.1.2](https://github.com/codeigniter4/settings/releases/tag/v2.1.2) リリース
 - 2023-05-21 CodeIgniter 4.3.5 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.5.html))
   - 脆弱性情報 [Remote Code Execution Vulnerability in Validation Placeholders](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-m6m8-6gq8-c9fj)
 - 2023-05-11 CodeIgniter 4 Settings [v2.1.1](https://github.com/codeigniter4/settings/releases/tag/v2.1.1) リリース
