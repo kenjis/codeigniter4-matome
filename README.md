@@ -60,6 +60,12 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2023-10-26 CodeIgniter 4.4.3 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.4.3.html))
+  - 脆弱性情報 [Detailed Error Report is Displayed in Production Environment](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-hwxf-qxj7-7rfj)
+- 2023-10-19 CodeIgniter 4.4.2 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.4.2.html))
+- 2023-09-05 CodeIgniter 4.4.1 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.4.1.html))
+- 2023-08-25 CodeIgniter 4.4.0 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.4.0.html))
+- 2023-08-25 CodeIgniter 4.3.8 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.8.html))
 - 2023-07-30 CodeIgniter 4.3.7 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.7.html))
 - 2023-06-18 CodeIgniter 4.3.6 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.6.html))
 - 2023-05-21 CodeIgniter 4.3.5 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.3.5.html))
@@ -137,6 +143,8 @@
 - Qiita https://qiita.com/tags/codeigniter4
 
 ## 脆弱性情報
+- v4.4.3 で修正済み
+  - [Detailed Error Report is Displayed in Production Environment](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-hwxf-qxj7-7rfj)
 - v4.3.5 で修正済み
   - [Remote Code Execution Vulnerability in Validation Placeholders](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-m6m8-6gq8-c9fj)
 - v4.2.11 で修正済み
