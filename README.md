@@ -64,6 +64,7 @@
   - 脆弱性情報 [Detailed Error Report is Displayed in Production Environment](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-hwxf-qxj7-7rfj)
 - 2023-10-21 CodeIgniter extensions and rules for PHPStan [1.4.1 リリース](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.1)
 - 2023-10-19 CodeIgniter 4.4.2 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.4.2.html))
+- 2023-10-13 CodeIgniter Coding Standard [1.7.11 リリース](https://github.com/CodeIgniter/coding-standard/releases/tag/v1.7.11)
 - 2023-10-09 公式認証パッケージ CodeIgniter Shield 1.0.0-beta.7 リリース（[ChangeLog](https://github.com/codeigniter4/shield/releases/tag/v1.0.0-beta.7)）
 - 2023-09-26 CodeIgniter DevKit [1.1.2 リリース](https://github.com/codeigniter4/devkit/releases/tag/v1.1.2)
 - 2023-09-05 CodeIgniter 4.4.1 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.4.1.html))
