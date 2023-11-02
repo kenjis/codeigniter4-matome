@@ -320,6 +320,7 @@
 - [lonnieezell/myth-auth: One-stop Auth package for CodeIgniter 4](https://github.com/lonnieezell/myth-auth)
   - [CodeIgniter4の認証ライブラリMyth Authを使う](https://zenn.dev/kenjis/articles/95f38b7e447155)
 - [benedmunds/CodeIgniter-Ion-Auth at 4](https://github.com/benedmunds/CodeIgniter-Ion-Auth/tree/4)
+- [michalsn/codeigniter-auth0: Basic integration for Auth0 authentication](https://github.com/michalsn/codeigniter-auth0)
 - [Integrating CodeIgniter 4 with Auth0 | michalsn](https://michalsn.dev/posts/integrating-codeigniter-4-with-auth0/)
 - [Codeigniter4でソーシャルメディアログインを実装する](https://blog.takeho.com/implement-social-media-login-with-codeigniter-4/)
 
