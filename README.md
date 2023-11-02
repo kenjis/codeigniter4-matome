@@ -335,6 +335,9 @@
 ### ロギング
 - [ajmeireles/ci4-sentry: Sentry Integration with CodeIgniter 4](https://github.com/ajmeireles/ci4-sentry)
 
+### セッション
+- [michalsn/codeigniter-session-extended: Manage database sessions in CodeIgniter 4](https://github.com/michalsn/codeigniter-session-extended)
+
 ### REST
 - [daycry/restserver: Rest Server for Codeigniter 4](https://github.com/daycry/restserver)
 
