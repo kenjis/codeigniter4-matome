@@ -237,6 +237,7 @@
 
 #### CodeIgniter Model 関連パッケージ
 - [michalsn/codeigniter-nested-model: Dead simple nested model relations for CodeIgniter 4 framework](https://github.com/michalsn/codeigniter-nested-model)
+- [michalsn/codeigniter-tags: Tags functionality for Codeigniter 4 framework](https://github.com/michalsn/codeigniter-tags)
 - [tattersoftware/codeigniter4-relations: Entity relationships for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-relations)
 - [tattersoftware/codeigniter4-roster: Bulk name lookup for database relations](https://github.com/tattersoftware/codeigniter4-roster)
 - [tattersoftware/codeigniter4-permits: Model permission handling for CodeIgniter 4](https://github.com/tattersoftware/codeigniter4-permits)
