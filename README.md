@@ -349,6 +349,7 @@
 - [HTMX helper library for CodeIgniter 4 framework](https://github.com/michalsn/codeigniter-htmx)
 
 ### Queue
+- [michalsn/codeigniter-queue](https://github.com/michalsn/codeigniter-queue)
 - [colethorsen/codeigniter4-queue](https://github.com/colethorsen/codeigniter4-queue)
 - [arashsaffari/queue](https://github.com/arashsaffari/queue)
 - [masrodjie/codeigniter4-queue](https://github.com/masrodjie/codeigniter4-queue)
