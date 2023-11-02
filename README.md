@@ -339,6 +339,7 @@
 ### 多言語化
 - [clsmedia/ci4-translation-finder: Translation strings finder for CodeIgniter 4](
   https://github.com/clsmedia/ci4-translation-finder)
+- [michalsn/codeigniter-gettext: Use gettext with CodeIgniter 4 more easily](https://github.com/michalsn/codeigniter-gettext)
 
 ### JavaScript/CSS
 - [michalsn/minifier: Asset minification and versioning library for CodeIgniter 4](https://github.com/michalsn/minifier)
