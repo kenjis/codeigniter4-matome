@@ -313,6 +313,7 @@
 - [codeigniter4/shield: Authentication and Authorization for CodeIgniter 4](
   https://github.com/codeigniter4/shield)
 - (開発中) [codeigniter4/tasks: Task Scheduler for CodeIgnter 4](https://github.com/codeigniter4/tasks)
+- (開発中) [codeigniter4/queue: Queues for the CodeIgniter 4 framework](https://github.com/codeigniter4/queue)
 
 ### 認証
 
@@ -359,7 +360,6 @@
 - [HTMX helper library for CodeIgniter 4 framework](https://github.com/michalsn/codeigniter-htmx)
 
 ### Queue
-- [michalsn/codeigniter-queue](https://github.com/michalsn/codeigniter-queue)
 - [colethorsen/codeigniter4-queue](https://github.com/colethorsen/codeigniter4-queue)
 - [arashsaffari/queue](https://github.com/arashsaffari/queue)
 - [masrodjie/codeigniter4-queue](https://github.com/masrodjie/codeigniter4-queue)
