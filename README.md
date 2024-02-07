@@ -60,6 +60,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 最近の動向
+- 2023-12-27 公式認証パッケージ CodeIgniter Shield 1.0.0 リリース（[ChangeLog](https://github.com/codeigniter4/shield/releases/tag/v1.0.0)）
 - 2023-10-26 CodeIgniter 4.4.3 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.4.3.html))
   - 脆弱性情報 [Detailed Error Report is Displayed in Production Environment](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-hwxf-qxj7-7rfj)
 - 2023-10-21 CodeIgniter extensions and rules for PHPStan [1.4.1 リリース](https://github.com/CodeIgniter/phpstan-codeigniter/releases/tag/v1.4.1)
