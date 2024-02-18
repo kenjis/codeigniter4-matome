@@ -46,6 +46,7 @@
   - [認証](#%E8%AA%8D%E8%A8%BC)
   - [データベース](#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9-1)
   - [ロギング](#%E3%83%AD%E3%82%AE%E3%83%B3%E3%82%B0)
+  - [セッション](#%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3)
   - [REST](#rest)
   - [多言語化](#%E5%A4%9A%E8%A8%80%E8%AA%9E%E5%8C%96)
   - [JavaScript/CSS](#javascriptcss)
@@ -55,6 +56,7 @@
   - [Long-living PHP](#long-living-php)
   - [Serverless](#serverless)
 - [アプリケーション](#%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
+- [CodeIgniterライブラリを他のプロジェクトで使う](#codeigniter%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%82%92%E4%BB%96%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%A7%E4%BD%BF%E3%81%86)
 - [書籍](#%E6%9B%B8%E7%B1%8D)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -387,6 +389,9 @@
 - [CodeIgniter Website](https://github.com/codeigniter4projects/website)
 - [samsonasik/ci4-album: 🔥 CodeIgniter 4 example Album module uses Domain Driven Design Architecture with Tactical Pattern](https://github.com/samsonasik/ci4-album)
 - [Castopod](https://github.com/ad-aures/castopod) a free and open-source podcast hosting solution
+
+## CodeIgniterライブラリを他のプロジェクトで使う
+- [Using CodeIgniter4 Session in Plain PHP](https://github.com/kenjis/ci4-session-in-plain-php)
 
 ## 書籍
 - [CodeIgniter 4 Foundations](https://leanpub.com/codeigniter4foundations) by Lonnie Ezell
