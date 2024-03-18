@@ -308,6 +308,7 @@
 - [CodeIgniter4でMonologを使う](http://blog.a-way-out.net/blog/2021/09/16/codeigniter4-monolog/)
 - [[実践CodeIgniter4]第1回：Viewクラスの拡張 | ATTRIBUTE ERROR...](https://www.attribute-error.jp/column/%5B%E5%AE%9F%E8%B7%B5CodeIgniter4%5D%E7%AC%AC1%E5%9B%9E%EF%BC%9AView%E3%82%AF%E3%83%A9%E3%82%B9%E3%81%AE%E6%8B%A1%E5%BC%B5)
 - [コントローラの生成をDIコンテナ経由にする](https://github.com/kenjis/ci4-tettei-apps/pull/4)
+- [How to Log URI or etc. when Exception occurs in CodeIgniter 4](https://gist.github.com/kenjis/aa2700f76c456f06f58134271a8ce2be)
 
 ## ライブラリ
 
