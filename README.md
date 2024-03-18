@@ -26,6 +26,7 @@
   - [ルーティング](#%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)
   - [REST API](#rest-api)
   - [バリデーション](#%E3%83%90%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
+  - [フィルタ](#%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF)
 - [モデル](#%E3%83%A2%E3%83%87%E3%83%AB)
   - [CodeIgniter Model](#codeigniter-model)
   - [データベース](#%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9)
@@ -228,6 +229,9 @@
 - [CodeIgniter4 の $this->validate() でラベル付きのエラーメッセージを使用する - Qiita](https://qiita.com/naente/items/c372dbc3c7f36dbbf373)
 - [CodeIgniter4 バリデーションルール valid_date は年月の検証に使用できるのか](https://zenn.dev/naente/articles/49c5717c2a4e26)
 - [本当は緩いCodeIgniterのvalid_urlバリデーションルール](http://blog.a-way-out.net/blog/2022/12/02/really-loose-codeigniter-valid-url/)
+
+### フィルタ
+- [CodeIgniter 4 CORS configuration](https://gist.github.com/kenjis/e757d2b4193b6843724e447e6eaa1254)
 
 ## モデル
 - [CodeIgniter\Modelを使わない場合](https://zenn.dev/kenjis/articles/31526cefe34f0c)
