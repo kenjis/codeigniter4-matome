@@ -69,6 +69,7 @@
 - 2024-04-07 CodeIgniter 4.5.0 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.5.0.html))
 - 2024-04-07 CodeIgniter 4.4.8 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.4.8.html))
 - 2024-03-29 CodeIgniter 4.4.7 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.4.7.html))
+  - 脆弱性情報 [Language class DoS Vulnerability](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-39fp-mqmm-gxj6)
 - 2024-03-17 公式認証パッケージ CodeIgniter Shield 1.0.2 リリース（[ChangeLog](https://github.com/codeigniter4/shield/releases/tag/v1.0.2)）
 - 2024-02-24 CodeIgniter 4.4.6 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.4.6.html))
 - 2024-02-15 公式認証パッケージ CodeIgniter Shield 1.0.1 リリース（[ChangeLog](https://github.com/codeigniter4/shield/releases/tag/v1.0.1)）
@@ -130,6 +131,8 @@
 - Qiita https://qiita.com/tags/codeigniter4
 
 ## 脆弱性情報
+- v4.4.7 で修正済み
+  - [Language class DoS Vulnerability](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-39fp-mqmm-gxj6)
 - v4.4.3 で修正済み
   - [Detailed Error Report is Displayed in Production Environment](https://github.com/codeigniter4/CodeIgniter4/security/advisories/GHSA-hwxf-qxj7-7rfj)
 - v4.3.5 で修正済み
