@@ -64,6 +64,7 @@
 
 ## 最近の動向
 - 2024-06-10 CodeIgniter 4.5.2 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.5.2.html))
+- 2024-04-14 公式認証パッケージ CodeIgniter Shield 1.0.3 リリース（[ChangeLog](https://github.com/codeigniter4/shield/releases/tag/v1.0.3)）
 - 2024-04-14 CodeIgniter 4.5.1 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.5.1.html))
 - 2024-04-07 CodeIgniter 4.5.0 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.5.0.html))
 - 2024-04-07 CodeIgniter 4.4.8 リリース ([ChangeLog](https://codeigniter4.github.io/CodeIgniter4/changelogs/v4.4.8.html))
