@@ -204,7 +204,7 @@
 ## チュートリアル
 - [CodeIgniter4入門 公式チュートリアル](https://zenn.dev/kenjis/articles/3d5e42f872ff18)
 - [CodeIgniter 4.3 最速マスター](https://zenn.dev/kenjis/articles/1ad5c8c12e6aa3)
-- [CodeIgniter 4 jQuery DataTables を使用するチュートリアル](https://wdsphere.com/article/codeigniter4-jquery-datatables-tutorial)
+- [CodeIgniter 4 jQuery DataTables を使用するチュートリアル](https://wdsphere.com/article/8/)
 - [Learn CodeIgniter](https://learncodeigniter.net/)
 - [CodeIgniter 4 Tutorials - Best Place to Learn CodeIgniter 4](https://onlinewebtutorblog.com/category/codeigniter-4/)
 - 多言語化
