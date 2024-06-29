@@ -317,6 +317,7 @@
 
 ## フレームワーク内部
 - [CodeIgniter4のアプリケーションフローチャート](https://zenn.dev/kenjis/articles/c8a19f61d62f24)
+- [CodeIgniter 4.5の処理の流れ](http://blog.a-way-out.net/blog/2024/04/16/codeigniter45-process-flow/)
 - [CodeIgniter 4.4の処理の流れ](http://blog.a-way-out.net/blog/2023/10/17/codeigniter44-process-flow/)
 - [CodeIgniter 4.3の処理の流れ](http://blog.a-way-out.net/blog/2022/10/31/codeigniter43-process-flow/)
 - [CodeIgniter 4.1の処理の流れ](http://blog.a-way-out.net/blog/2021/02/19/codeigniter41-process-flow/)
