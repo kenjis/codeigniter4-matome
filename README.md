@@ -402,7 +402,7 @@
 - [Serverless Codeigniter 4 | michalsn](https://michalsn.dev/posts/serverless-codeigniter-4/)
 
 ## アプリケーション
-- [『CodeIgniter徹底入門』のサンプルアプリケーション （CodeIgniter v4.1版） ](https://github.com/kenjis/ci4-tettei-apps)
+- [『CodeIgniter徹底入門』のサンプルアプリケーション （CodeIgniter v4.x版） ](https://github.com/kenjis/ci4-tettei-apps)
 - [CodeIgniter 4 Sample Forum Application](https://github.com/lonnieezell/forum-example)
 - [CodeIgniter Website](https://github.com/codeigniter4projects/website)
 - [samsonasik/ci4-album: 🔥 CodeIgniter 4 example Album module uses Domain Driven Design Architecture with Tactical Pattern](https://github.com/samsonasik/ci4-album)
